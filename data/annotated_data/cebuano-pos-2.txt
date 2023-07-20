@@ -1859,13 +1859,13 @@ biktima -X- _ O
 ug -X- _ O
 gidala -X- _ O
 sa -X- _ O
-Chong -X- _ B-ORG
-Hua -X- _ I-ORG
-Hospital -X- _ I-ORG
+Chong -X- _ B-LOC
+Hua -X- _ I-LOC
+Hospital -X- _ I-LOC
 sa -X- _ O
-North -X- _ O
-Reclamation -X- _ O
-Area -X- _ O
+North -X- _ I-LOC
+Reclamation -X- _ I-LOC
+Area -X- _ I-LOC
 . -X- _ O
 
 Ang -X- _ O
@@ -8017,8 +8017,8 @@ na -X- _ O
 nga -X- _ O
 nagsugod -X- _ O
 ang -X- _ O
-Angkas -X- _ O
-Padala -X- _ O
+Angkas -X- _ B-OTHER
+Padala -X- _ I-OTHER
 nga -X- _ O
 usa -X- _ O
 na -X- _ O
@@ -9996,9 +9996,9 @@ gihimakak -X- _ O
 sa -X- _ O
 hepe -X- _ O
 sa -X- _ O
-Cordova -X- _ B-ORG
-police -X- _ I-ORG
-sta­tion -X- _ I-ORG
+Cordova -X- _ B-LOC
+police -X- _ O
+sta­tion -X- _ O
 , -X- _ O
 Chief -X- _ O
 Insp. -X- _ O
@@ -18974,9 +18974,9 @@ Mandaue -X- _ B-ORG
 City -X- _ I-ORG
 Police -X- _ I-ORG
 Office -X- _ I-ORG
-( -X- _ I-ORG
-MCPO -X- _ I-ORG
-) -X- _ I-ORG
+( -X- _ O
+MCPO -X- _ B-ORG
+) -X- _ O
 , -X- _ O
 niingon -X- _ O
 nga -X- _ O
@@ -82015,8 +82015,8 @@ sakyanan -X- _ O
 nga -X- _ O
 gi-isyu -X- _ O
 sa -X- _ O
-City -X- _ B-ORG
-Hall -X- _ I-ORG
+City -X- _ O
+Hall -X- _ O
 ngadto -X- _ O
 sa -X- _ O
 barangay -X- _ O
@@ -82629,7 +82629,7 @@ Albiar -X- _ B-PER
 , -X- _ O
 napakyas -X- _ O
 ang -X- _ O
-Koreano -X- _ O
+Koreano -X- _ B-OTHER
 sa -X- _ O
 pagpakita -X- _ O
 og -X- _ O

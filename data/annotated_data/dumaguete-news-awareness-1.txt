@@ -254,8 +254,8 @@ hapit -X- _ O
 sa -X- _ O
 Sibulan -X- _ B-LOC
 ! -X- _ O
-Miss -X- _ B-MISC
-Sibulan -X- _ I-MISC
+Miss -X- _ O-OTH
+Sibulan -X- _ I-OTH
 tonight. -X- _ O
 Photo -X- _ O
 by -X- _ O
@@ -382,9 +382,9 @@ week -X- _ O
 katong -X- _ O
 naa -X- _ O
 ang -X- _ O
-Birhen -X- _ B-MISC
-sa -X- _ I-MISC
-Simala -X- _ I-MISC
+Birhen -X- _ O-OTH
+sa -X- _ I-OTH
+Simala -X- _ I-OTH
 sa -X- _ O
 Cathedral. -X- _ I-LOC
 traffic -X- _ O
@@ -868,7 +868,7 @@ ulan -X- _ O
 ulan -X- _ O
 . -X- _ O
 
-Royal -X- _ B-MISC
+Royal -X- _ O-OTH
 daun -X- _ O
 gi -X- _ O
 palit -X- _ O
@@ -945,7 +945,7 @@ buot -X- _ O
 Daghan -X- _ O
 naman -X- _ O
 gud -X- _ O
-inchek -X- _ B-MISC
+inchek -X- _ O-OTH
 nationals -X- _ O
 dire -X- _ O
 sa -X- _ O
@@ -967,7 +967,7 @@ nakakita -X- _ O
 Brown -X- _ O
 Wallet -X- _ O
 , -X- _ O
-RRJ -X- _ B-MISC
+RRJ -X- _ O-OTH
 na -X- _ O
 brand. -X- _ O
 May -X- _ O
@@ -1133,10 +1133,10 @@ you -X- _ O
 ! -X- _ O
 Name -X- _ O
 : -X- _ O
-Adbin -X- _ B-MISC
+Adbin -X- _ O-OTH
 Breed -X- _ O
 : -X- _ O
-Shitzu -X- _ B-MISC
+Shitzu -X- _ O-OTH
 Color -X- _ O
 : -X- _ O
 Tricolor -X- _ O
@@ -1714,7 +1714,7 @@ jd -X- _ O
 nila -X- _ O
 mamalit -X- _ O
 ug -X- _ O
-coke -X- _ B-MISC
+coke -X- _ O-OTH
 kay -X- _ O
 sa -X- _ O
 tunga -X- _ O
@@ -2115,7 +2115,7 @@ ug -X- _ O
 attention -X- _ O
 ng -X- _ O
 mga -X- _ O
-V-hire -X- _ B-MISC
+V-hire -X- _ O-OTH
 diri -X- _ O
 sa -X- _ O
 negros -X- _ B-LOC
@@ -2278,7 +2278,7 @@ puppy -X- _ O
 7 -X- _ O
 mos -X- _ O
 old. -X- _ O
-shitzu. -X- _ B-MISC
+shitzu. -X- _ O-OTH
 or -X- _ O
 naa -X- _ O
 ibaligya. -X- _ O
@@ -2292,7 +2292,7 @@ amoa -X- _ O
 puppy -X- _ O
 iya -X- _ O
 me -X- _ O
-snowball..sa -X- _ B-MISC
+snowball..sa -X- _ O-OTH
 ako -X- _ O
 intawon -X- _ O
 to -X- _ O
@@ -2694,7 +2694,7 @@ pictures -X- _ O
 . -X- _ O
 
 Naka -X- _ O
-xerox -X- _ B-MISC
+xerox -X- _ O-OTH
 naba -X- _ O
 tanan -X- _ O
 sa -X- _ O
@@ -3131,7 +3131,7 @@ lamang -X- _ O
 sa -X- _ O
 pangalan -X- _ O
 " -X- _ O
-Haslik -X- _ B-MISC
+Haslik -X- _ O-OTH
 " -X- _ O
 hingkod -X- _ O
 ang -X- _ O
@@ -3473,9 +3473,9 @@ Biyernes -X- _ O
 giisa -X- _ O
 ngadto -X- _ O
 sa -X- _ O
-Task -X- _ B-MISC
-Force -X- _ I-MISC
-Bravo -X- _ I-MISC
+Task -X- _ O-OTH
+Force -X- _ I-OTH
+Bravo -X- _ I-OTH
 ang -X- _ O
 maong -X- _ O
 sunog. -X- _ O
@@ -3491,7 +3491,7 @@ gani -X- _ O
 nakakita -X- _ O
 sa -X- _ O
 akong -X- _ O
-IPhone -X- _ B-MISC
+IPhone -X- _ O-OTH
 13 -X- _ O
 dark -X- _ O
 blue -X- _ O
@@ -4182,8 +4182,8 @@ the -X- _ O
 start -X- _ O
 of -X- _ O
 the -X- _ O
-Holy -X- _ B-MISC
-week -X- _ I-MISC
+Holy -X- _ O-OTH
+week -X- _ I-OTH
 naa -X- _ O
 rajapon -X- _ O
 ning -X- _ O
@@ -4283,9 +4283,9 @@ model -X- _ O
 sa -X- _ O
 phone -X- _ O
 is -X- _ O
-Oppo -X- _ B-MISC
-Reno -X- _ I-MISC
-8. -X- _ I-MISC
+Oppo -X- _ O-OTH
+Reno -X- _ I-OTH
+8. -X- _ I-OTH
 I -X- _ O
 hope -X- _ O
 ma -X- _ O
@@ -4315,7 +4315,7 @@ dile -X- _ O
 magamit. -X- _ O
 Kung -X- _ O
 makay -X- _ O
-gcash -X- _ B-MISC
+gcash -X- _ O-OTH
 nya -X- _ O
 wala -X- _ O
 na -X- _ O
@@ -4339,9 +4339,9 @@ balaud -X- _ O
 nila -X- _ O
 ! -X- _ O
 The -X- _ O
-anti-distracted -X- _ B-MISC
-driving -X- _ I-MISC
-act -X- _ I-MISC
+anti-distracted -X- _ O-OTH
+driving -X- _ I-OTH
+act -X- _ I-OTH
 carries -X- _ O
 a -X- _ O
 penalty -X- _ O
@@ -4999,7 +4999,7 @@ ang -X- _ O
 city -X- _ O
 ani -X- _ O
 mga -X- _ O
-badjao -X- _ B-MISC
+badjao -X- _ O-OTH
 bali -X- _ O
 nman -X- _ O
 gyud -X- _ O
@@ -5154,9 +5154,9 @@ ka -X- _ O
 mga -X- _ O
 hiker -X- _ O
 ang -X- _ O
-Visayan -X- _ B-MISC
-leopard -X- _ I-MISC
-cat -X- _ I-MISC
+Visayan -X- _ O-OTH
+leopard -X- _ I-OTH
+cat -X- _ I-OTH
 , -X- _ O
 nga -X- _ O
 lokal -X- _ O
@@ -5164,7 +5164,7 @@ nga -X- _ O
 nailhan -X- _ O
 isip -X- _ O
 " -X- _ O
-Maral -X- _ B-MISC
+Maral -X- _ O-OTH
 , -X- _ O
 " -X- _ O
 sa -X- _ O
@@ -5194,7 +5194,7 @@ sa -X- _ O
 samaran -X- _ O
 daw -X- _ O
 nga -X- _ O
-Maral -X- _ B-MISC
+Maral -X- _ O-OTH
 nga -X- _ O
 nagtago -X- _ O
 sa -X- _ O
@@ -5888,8 +5888,8 @@ a -X- _ O
 NO -X- _ O
 PLATE -X- _ O
 BLUE -X- _ O
-HONDA -X- _ B-MISC
-CLICK -X- _ I-MISC
+HONDA -X- _ O-OTH
+CLICK -X- _ I-OTH
 TWO -X- _ O
 ladies -X- _ O
 riding -X- _ O
@@ -5921,7 +5921,7 @@ Blanco -X- _ I-LOC
 ) -X- _ O
 Among -X- _ O
 white -X- _ O
-Xpander -X- _ B-MISC
+Xpander -X- _ O-OTH
 ilang -X- _ O
 nabundol -X- _ O
 sa -X- _ O
@@ -6338,9 +6338,9 @@ sa -X- _ O
 unang -X- _ O
 kaso -X- _ O
 sa -X- _ O
-African -X- _ B-MISC
-Swine -X- _ I-MISC
-Fever -X- _ I-MISC
+African -X- _ O-OTH
+Swine -X- _ I-OTH
+Fever -X- _ I-OTH
 sa -X- _ O
 Carcar -X- _ B-LOC
 City. -X- _ I-LOC
@@ -6407,7 +6407,7 @@ the -X- _ O
 news -X- _ O
 of -X- _ O
 the -X- _ O
-ASF -X- _ B-MISC
+ASF -X- _ O-OTH
 cases -X- _ O
 in -X- _ O
 Carcar -X- _ B-LOC
@@ -6455,7 +6455,7 @@ ang -X- _ O
 unang -X- _ O
 kaso -X- _ O
 sa -X- _ O
-ASF -X- _ B-MISC
+ASF -X- _ O-OTH
 sa -X- _ O
 Carcar -X- _ B-LOC
 City -X- _ I-LOC
@@ -6655,9 +6655,9 @@ Maayo -X- _ B-ORG
 Shipping -X- _ I-ORG
 Roro -X- _ O
 ug -X- _ O
-Petro -X- _ B-MISC
-Helen -X- _ I-MISC
-Tanker -X- _ I-MISC
+Petro -X- _ O-OTH
+Helen -X- _ I-OTH
+Tanker -X- _ I-OTH
 sa -X- _ O
 Tampi -X- _ B-LOC
 Port -X- _ I-LOC
@@ -6946,7 +6946,7 @@ duha -X- _ O
 ka -X- _ O
 SUV -X- _ O
 nga -X- _ O
-Montero -X- _ B-MISC
+Montero -X- _ O-OTH
 
 Wala -X- _ O
 najuy -X- _ O
@@ -7133,7 +7133,7 @@ lanat -X- _ O
 jud -X- _ O
 Niya -X- _ O
 Ang -X- _ O
-Ceres -X- _ B-MISC
+Ceres -X- _ O-OTH
 baling -X- _ O
 kusoga -X- _ O
 ! -X- _ O
@@ -7201,14 +7201,14 @@ motor -X- _ O
 Basin -X- _ O
 gibaligyaan -X- _ O
 mog -X- _ O
-Adidas -X- _ B-MISC
+Adidas -X- _ O-OTH
 na -X- _ O
 duffle -X- _ O
 bag -X- _ O
 gamay -X- _ O
 sya -X- _ O
 then -X- _ O
-samsung -X- _ B-MISC
+samsung -X- _ O-OTH
 s10 -X- _ O
 prism -X- _ O
 white -X- _ O
@@ -7216,7 +7216,7 @@ white -X- _ O
 then -X- _ O
 relo -X- _ O
 nga -X- _ O
-g-shock -X- _ B-MISC
+g-shock -X- _ O-OTH
 color -X- _ O
 black -X- _ O
 ang -X- _ O
@@ -7909,9 +7909,9 @@ nga -X- _ O
 inbestigasyun -X- _ O
 nagpakita -X- _ O
 ang -X- _ O
-Isuzu -X- _ B-MISC
-Crew -X- _ I-MISC
-Cab -X- _ I-MISC
+Isuzu -X- _ O-OTH
+Crew -X- _ I-OTH
+Cab -X- _ I-OTH
 nga -X- _ O
 pula -X- _ O
 gimaneho -X- _ O
@@ -7952,8 +7952,8 @@ nga -X- _ O
 nagkasungag -X- _ O
 sa -X- _ O
 gray -X- _ O
-Ford -X- _ B-MISC
-Ranger -X- _ I-MISC
+Ford -X- _ O-OTH
+Ranger -X- _ I-OTH
 nga -X- _ O
 gimaneho -X- _ O
 ni -X- _ O
@@ -7983,13 +7983,13 @@ sa -X- _ O
 impact -X- _ O
 , -X- _ O
 ang -X- _ O
-RUSI -X- _ B-MISC
+RUSI -X- _ O-OTH
 nga -X- _ O
 motor -X- _ O
 nga -X- _ O
 nagsunod -X- _ O
 sa -X- _ O
-Izusu -X- _ B-MISC
+Izusu -X- _ O-OTH
 naalahig -X- _ O
 og -X- _ O
 napulingkang -X- _ O
@@ -9040,8 +9040,8 @@ inisyal -X- _ O
 nga -X- _ O
 imbestigasyon -X- _ O
 ang -X- _ O
-Hyundai -X- _ B-MISC
-Eon -X- _ I-MISC
+Hyundai -X- _ O-OTH
+Eon -X- _ I-OTH
 nga -X- _ O
 gimaneho -X- _ O
 ni -X- _ O
@@ -9958,7 +9958,7 @@ to -X- _ O
 celebrate -X- _ O
 culture -X- _ O
 and -X- _ O
-bisaya -X- _ B-MISC
+bisaya -X- _ O-OTH
 culture -X- _ O
 is -X- _ O
 the -X- _ O
@@ -9970,7 +9970,7 @@ sarap -X- _ O
 sa -X- _ O
 buhay. -X- _ O
 Happy -X- _ O
-Sinulog -X- _ B-MISC
+Sinulog -X- _ O-OTH
 Sibulan -X- _ B-LOC
 
 Nahisubo -X- _ O
@@ -10025,7 +10025,7 @@ Dumaguete -X- _ O
 ctto -X- _ O
 
 Mga -X- _ O
-lumad -X- _ B-MISC
+lumad -X- _ O-OTH
 sa -X- _ O
 Dumaguete -X- _ B-LOC
 kabalo -X- _ O
@@ -10354,9 +10354,9 @@ balance -X- _ O
 pinaagi -X- _ O
 sa -X- _ O
 " -X- _ O
-0431 -X- _ B-MISC
-Debit -X- _ I-MISC
-Memo -X- _ I-MISC
+0431 -X- _ O-OTH
+Debit -X- _ I-OTH
+Memo -X- _ I-OTH
 " -X- _ O
 nga -X- _ O
 nigawas -X- _ O
@@ -10382,9 +10382,9 @@ sa -X- _ O
 Pilipinas -X- _ B-LOC
 ang -X- _ O
 " -X- _ O
-0431 -X- _ B-MISC
-Debit -X- _ I-MISC
-Memo. -X- _ I-MISC
+0431 -X- _ O-OTH
+Debit -X- _ I-OTH
+Memo. -X- _ I-OTH
 " -X- _ O
 Sa -X- _ O
 opisyal -X- _ O
@@ -10492,7 +10492,7 @@ bisikleta -X- _ O
 Stolen -X- _ O
 phone -X- _ O
 : -X- _ O
-iphone -X- _ B-MISC
+iphone -X- _ O-OTH
 12 -X- _ O
 promax -X- _ O
 128gb -X- _ O
@@ -10612,13 +10612,13 @@ mamalit -X- _ O
 ug -X- _ O
 Cake -X- _ O
 pang -X- _ O
-Medya -X- _ B-MISC
-Noche -X- _ I-MISC
+Medya -X- _ O-OTH
+Noche -X- _ I-OTH
 . -X- _ O
 
 Pang -X- _ O
-New -X- _ B-MISC
-Year -X- _ I-MISC
+New -X- _ O-OTH
+Year -X- _ I-OTH
 jud -X- _ O
 ! -X- _ O
 ! -X- _ O
@@ -10690,7 +10690,7 @@ atong -X- _ O
 adlaw -X- _ O
 sa -X- _ O
 pasko. -X- _ O
-Ni -X- _ B-MISC
+Ni -X- _ O-OTH
 tambong -X- _ O
 sa -X- _ O
 maong -X- _ O
@@ -11169,7 +11169,7 @@ ahead -X- _ O
 for -X- _ O
 their -X- _ O
 own -X- _ O
-Christmas -X- _ B-MISC
+Christmas -X- _ O-OTH
 and -X- _ O
 not -X- _ O
 for -X- _ O
@@ -11242,10 +11242,10 @@ it -X- _ O
 was -X- _ O
 either -X- _ O
 speaking -X- _ O
-tagalog -X- _ B-MISC
+tagalog -X- _ O-OTH
 or -X- _ O
 broken -X- _ O
-spanish -X- _ B-MISC
+spanish -X- _ O-OTH
 according -X- _ O
 to -X- _ O
 several -X- _ O
@@ -11477,7 +11477,7 @@ kos -X- _ O
 driver -X- _ O
 Ani -X- _ O
 nga -X- _ O
-Ceres -X- _ B-MISC
+Ceres -X- _ O-OTH
 iyang -X- _ O
 bus -X- _ O
 # -X- _ O
@@ -11541,7 +11541,7 @@ jud -X- _ O
 mo -X- _ O
 ! -X- _ O
 # -X- _ O
-ceresliner -X- _ B-MISC
+ceresliner -X- _ O-OTH
 murag -X- _ O
 kinahanglan -X- _ O
 naning -X- _ O
@@ -11591,7 +11591,7 @@ Nang -X- _ O
 pls -X- _ O
 lang -X- _ O
 # -X- _ O
-ceresliner -X- _ B-MISC
+ceresliner -X- _ O-OTH
 actioni -X- _ O
 na -X- _ O
 ninyo -X- _ O
@@ -11755,7 +11755,7 @@ gikuha -X- _ O
 ang -X- _ O
 booth -X- _ O
 sa -X- _ O
-buglasan -X- _ B-MISC
+buglasan -X- _ O-OTH
 hapit -X- _ O
 na -X- _ O
 1 -X- _ O
@@ -11784,7 +11784,7 @@ Valencia -X- _ B-LOC
 
 Wow -X- _ O
 early -X- _ O
-Christmas -X- _ B-MISC
+Christmas -X- _ O-OTH
 tree -X- _ O
 but -X- _ O
 na -X- _ O
@@ -11796,7 +11796,7 @@ nga -X- _ O
 mau -X- _ O
 ray -X- _ O
 kaya. -X- _ O
-Pasko -X- _ B-MISC
+Pasko -X- _ O-OTH
 talaga -X- _ O
 ! -X- _ O
 
@@ -11811,7 +11811,7 @@ Dumaguete -X- _ B-LOC
 no -X- _ O
 ? -X- _ O
 
-Christmas -X- _ B-MISC
+Christmas -X- _ O-OTH
 na -X- _ O
 chismis -X- _ O
 pata -X- _ O
@@ -12078,7 +12078,7 @@ Kay -X- _ O
 hapit -X- _ O
 na -X- _ O
 ang -X- _ O
-pasko -X- _ B-MISC
+pasko -X- _ O-OTH
 ? -X- _ O
 Daginuton -X- _ O
 pajud -X- _ O
@@ -12974,7 +12974,7 @@ card -X- _ O
 pajud -X- _ O
 nya -X- _ O
 sa -X- _ O
-Buglasan -X- _ B-MISC
+Buglasan -X- _ O-OTH
 party -X- _ O
 party -X- _ O
 ! -X- _ O
@@ -12998,7 +12998,7 @@ Water -X- _ I-ORG
 Yesterdays -X- _ O
 condition -X- _ O
 sa -X- _ O
-Buglasan -X- _ B-MISC
+Buglasan -X- _ O-OTH
 due -X- _ O
 to -X- _ O
 strong -X- _ O
@@ -14146,8 +14146,8 @@ paga -X- _ O
 abrihan -X- _ O
 pagsugod -X- _ O
 sa -X- _ O
-Buglasan -X- _ B-MISC
-Festival -X- _ I-MISC
+Buglasan -X- _ O-OTH
+Festival -X- _ I-OTH
 of -X- _ O
 Festivals. -X- _ O
 Ang -X- _ O
@@ -14234,15 +14234,15 @@ maoy -X- _ O
 gi -X- _ O
 latag -X- _ O
 sa -X- _ O
-Constitution -X- _ B-MISC
+Constitution -X- _ O-OTH
 ug -X- _ O
 sa -X- _ O
-Section -X- _ B-MISC
-94 -X- _ I-MISC
-sa -X- _ I-MISC
-Local -X- _ I-MISC
-Government -X- _ I-MISC
-Code -X- _ I-MISC
+Section -X- _ O-OTH
+94 -X- _ I-OTH
+sa -X- _ I-OTH
+Local -X- _ I-OTH
+Government -X- _ I-OTH
+Code -X- _ I-OTH
 . -X- _ O
 
 WATCH -X- _ O
@@ -14283,7 +14283,7 @@ tropical -X- _ O
 storm -X- _ O
 nga -X- _ O
 # -X- _ O
-NenengPH -X- _ B-MISC
+NenengPH -X- _ O-OTH
 karong -X- _ O
 Dominggo. -X- _ O
 Nagpadayon -X- _ O
@@ -14359,7 +14359,7 @@ naa -X- _ O
 diri -X- _ O
 o -X- _ O
 dili. -X- _ O
-Negrosanon -X- _ B-MISC
+Negrosanon -X- _ O-OTH
 Palanggaon -X- _ O
 ! -X- _ O
 " -X- _ O
@@ -14512,7 +14512,7 @@ mga -X- _ O
 kagulangan -X- _ O
 sa -X- _ O
 mga -X- _ O
-Lumad -X- _ B-MISC
+Lumad -X- _ O-OTH
 sa -X- _ O
 Dumaguete -X- _ B-LOC
 mau -X- _ O
@@ -15160,8 +15160,8 @@ Usa -X- _ O
 ka -X- _ O
 sakyanan -X- _ O
 nga -X- _ O
-Ford -X- _ B-MISC
-Escape -X- _ I-MISC
+Ford -X- _ O-OTH
+Escape -X- _ I-OTH
 nga -X- _ O
 gi -X- _ O
 hulman -X- _ O
@@ -15189,7 +15189,7 @@ gipanag-iya -X- _ O
 sa -X- _ O
 usa -X- _ O
 ka -X- _ O
-French -X- _ B-MISC
+French -X- _ O-OTH
 National -X- _ O
 ug -X- _ O
 gi -X- _ O
@@ -15322,8 +15322,8 @@ highway -X- _ O
 construction -X- _ O
 . -X- _ O
 
-Operation -X- _ B-MISC
-Dap-ag -X- _ I-MISC
+Operation -X- _ O-OTH
+Dap-ag -X- _ I-OTH
 removal -X- _ O
 gi -X- _ O
 lusad -X- _ O
@@ -15528,7 +15528,7 @@ ang -X- _ O
 iyang -X- _ O
 service -X- _ O
 pistol -X- _ O
-Canic -X- _ B-MISC
+Canic -X- _ O-OTH
 caliber -X- _ O
 9mm -X- _ O
 , -X- _ O
@@ -15985,7 +15985,7 @@ atung -X- _ O
 mga -X- _ O
 police. -X- _ O
 Has -X- _ O
-Dumaguetenos -X- _ B-MISC
+Dumaguetenos -X- _ O-OTH
 become -X- _ O
 more -X- _ O
 entitled -X- _ O
@@ -16239,8 +16239,8 @@ ang -X- _ O
 isa -X- _ O
 sa -X- _ O
 mga -X- _ O
-Priority -X- _ B-MISC
-Project -X- _ I-MISC
+Priority -X- _ O-OTH
+Project -X- _ I-OTH
 sunod -X- _ O
 tuig -X- _ O
 mao -X- _ O
@@ -16495,14 +16495,14 @@ kaso -X- _ O
 sa -X- _ O
 kalapasan -X- _ O
 sa -X- _ O
-RA9165 -X- _ B-MISC
+RA9165 -X- _ O-OTH
 kon -X- _ O
-Comprehensive -X- _ B-MISC
-Dangerous -X- _ I-MISC
-Drugs -X- _ I-MISC
-Act -X- _ I-MISC
-of -X- _ I-MISC
-2002. -X- _ I-MISC
+Comprehensive -X- _ O-OTH
+Dangerous -X- _ I-OTH
+Drugs -X- _ I-OTH
+Act -X- _ I-OTH
+of -X- _ I-OTH
+2002. -X- _ I-OTH
 # -X- _ O
 NewsBite -X- _ O
 | -X- _ O
@@ -16540,7 +16540,7 @@ ORIENTAL -X- _ I-LOC
 TUNGOD -X- _ O
 SA -X- _ O
 BAGYONG -X- _ O
-KARDING. -X- _ B-MISC
+KARDING. -X- _ O-OTH
 NOPPO-MAO -X- _ B-ORG
 kini -X- _ O
 ang -X- _ O
@@ -16866,8 +16866,8 @@ to -X- _ O
 move -X- _ O
 forward -X- _ O
 the -X- _ O
-174 -X- _ B-MISC
-project -X- _ I-MISC
+174 -X- _ O-OTH
+project -X- _ I-OTH
 knowing -X- _ O
 how -X- _ O
 devistating -X- _ O
@@ -16979,7 +16979,7 @@ sa -X- _ O
 Bagyong -X- _ O
 # -X- _ O
 KardingPH. -X- _ O
-Kini -X- _ B-MISC
+Kini -X- _ O-OTH
 sigon -X- _ O
 sa -X- _ O
 mando -X- _ O
@@ -17150,7 +17150,7 @@ blackout -X- _ O
 
 Kana -X- _ O
 bang -X- _ O
-tiktok -X- _ B-MISC
+tiktok -X- _ O-OTH
 is -X- _ O
 lifer -X- _ O
 
@@ -17453,7 +17453,7 @@ September -X- _ O
 , -X- _ O
 mibisita -X- _ O
 ang -X- _ O
-Pinay -X- _ B-MISC
+Pinay -X- _ O-OTH
 Susperstar -X- _ O
 nga -X- _ O
 si -X- _ O
@@ -17583,7 +17583,7 @@ saup -X- _ O
 ka -X- _ O
 mu -X- _ O
 drive. -X- _ O
-Pilipino -X- _ B-MISC
+Pilipino -X- _ O-OTH
 karen -X- _ O
 on -X- _ O
 the -X- _ O
@@ -17944,7 +17944,7 @@ e -X- _ O
 sabay -X- _ O
 sa -X- _ O
 culturang -X- _ O
-Pilipino. -X- _ B-MISC
+Pilipino. -X- _ O-OTH
 Binuang -X- _ O
 kaau -X- _ O
 ning -X- _ O
@@ -17990,7 +17990,7 @@ daghan -X- _ O
 pag -X- _ O
 kwarta -X- _ O
 ang -X- _ O
-Badjao -X- _ B-MISC
+Badjao -X- _ O-OTH
 kaysa -X- _ O
 nimu -X- _ O
 nga -X- _ O
@@ -18232,13 +18232,13 @@ mga -X- _ O
 tindahan. -X- _ O
 nipalit -X- _ O
 syag -X- _ O
-marlboro -X- _ B-MISC
+marlboro -X- _ O-OTH
 3 -X- _ O
 ka -X- _ O
 kaha -X- _ O
 ug -X- _ O
-mighty -X- _ B-MISC
-green -X- _ I-MISC
+mighty -X- _ O-OTH
+green -X- _ I-OTH
 2 -X- _ O
 kaha -X- _ O
 ( -X- _ O
@@ -18271,14 +18271,14 @@ when -X- _ O
 i -X- _ O
 gave -X- _ O
 the -X- _ O
-marlboro.. -X- _ B-MISC
+marlboro.. -X- _ O-OTH
 maygani -X- _ O
 wla -X- _ O
 nko -X- _ O
 nahatag -X- _ O
 ang -X- _ O
-mighty -X- _ B-MISC
-green -X- _ I-MISC
+mighty -X- _ O-OTH
+green -X- _ I-OTH
 ky -X- _ O
 in -X- _ O
 doubt -X- _ O
@@ -18299,7 +18299,7 @@ akong -X- _ O
 3 -X- _ O
 ka -X- _ O
 kaha -X- _ O
-marlboro.. -X- _ B-MISC
+marlboro.. -X- _ O-OTH
 OKAY -X- _ O
 ra -X- _ O
 sir -X- _ O
@@ -18323,7 +18323,7 @@ anang -X- _ O
 3 -X- _ O
 ka -X- _ O
 kaha -X- _ O
-marlboro -X- _ B-MISC
+marlboro -X- _ O-OTH
 nko.. -X- _ O
 dghan -X- _ O
 nang -X- _ O
@@ -18671,14 +18671,14 @@ mapahibalo -X- _ O
 ang -X- _ O
 importansiya -X- _ O
 sa -X- _ O
-RA -X- _ B-MISC
-10054 -X- _ I-MISC
+RA -X- _ O-OTH
+10054 -X- _ I-OTH
 o -X- _ O
-Motorcycle -X- _ B-MISC
-Helmet -X- _ I-MISC
-Act -X- _ I-MISC
-of -X- _ I-MISC
-2009. -X- _ I-MISC
+Motorcycle -X- _ O-OTH
+Helmet -X- _ I-OTH
+Act -X- _ I-OTH
+of -X- _ I-OTH
+2009. -X- _ I-OTH
 Bhoy -X- _ O
 Jubane -X- _ O
 Pilongo -X- _ O
@@ -19302,7 +19302,7 @@ mga -X- _ O
 resident -X- _ O
 nga -X- _ O
 si -X- _ O
-Kong. -X- _ B-MISC
+Kong. -X- _ O-OTH
 Atong-X- _ O
 gi -X- _ O
 adto -X- _ O
@@ -20061,8 +20061,8 @@ local -X- _ B-ORG
 government -X- _ I-ORG
 and -X- _ O
 the -X- _ O
-anti-burning -X- _ B-MISC
-law. -X- _ I-MISC
+anti-burning -X- _ O-OTH
+law. -X- _ I-OTH
 Let -X- _ O
 's -X- _ O
 keep -X- _ O
@@ -20131,7 +20131,7 @@ SA -X- _ O
 BIKTIMA -X- _ O
 SA -X- _ O
 BAGYONG -X- _ O
-ODETTE -X- _ B-MISC
+ODETTE -X- _ O-OTH
 , -X- _ O
 NAPALGAN -X- _ O
 SA -X- _ O
@@ -20168,7 +20168,7 @@ pa -X- _ O
 niadtong -X- _ O
 Bagyong -X- _ O
 # -X- _ O
-OdettePH. -X- _ B-MISC
+OdettePH. -X- _ O-OTH
 Wala -X- _ O
 pa -X- _ O
 hingpit -X- _ O
@@ -20229,7 +20229,7 @@ sa -X- _ O
 pag-igo -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 sa -X- _ O
 Bais -X- _ B-LOC
 City -X- _ I-LOC
@@ -20355,18 +20355,18 @@ ang -X- _ O
 DSWD -X- _ B-ORG
 sa -X- _ O
 mga -X- _ O
-4Ps -X- _ B-MISC
+4Ps -X- _ O-OTH
 beneficiaries -X- _ O
 sa -X- _ O
 atong -X- _ O
 dakbayan. -X- _ O
 The -X- _ O
-Pantawid -X- _ B-MISC
-Pamilyang -X- _ I-MISC
-Pilipino -X- _ I-MISC
-Program -X- _ I-MISC
+Pantawid -X- _ O-OTH
+Pamilyang -X- _ I-OTH
+Pilipino -X- _ I-OTH
+Program -X- _ I-OTH
 ( -X- _ O
-4Ps -X- _ B-MISC
+4Ps -X- _ O-OTH
 ) -X- _ O
 is -X- _ O
 a -X- _ O
@@ -20621,18 +20621,18 @@ napod -X- _ O
 ang -X- _ O
 sunud -X- _ O
 aning -X- _ O
-RA -X- _ B-MISC
-10883 -X- _ I-MISC
+RA -X- _ O-OTH
+10883 -X- _ I-OTH
 and -X- _ O
-RA -X- _ B-MISC
-4136 -X- _ I-MISC
+RA -X- _ O-OTH
+4136 -X- _ I-OTH
 nga -X- _ O
 road -X- _ O
 policy -X- _ O
 . -X- _ O
 
 Mga -X- _ O
-bisaya -X- _ B-MISC
+bisaya -X- _ O-OTH
 ! -X- _ O
 
 Unsa -X- _ O
@@ -21527,7 +21527,7 @@ or -X- _ O
 diha -X- _ O
 sa -X- _ O
 Amigo -X- _ B-LOC
-Dumagueteños -X- _ B-MISC
+Dumagueteños -X- _ O-OTH
 SafeHereCafe -X- _ B-LOC
 Racer -X- _ I-LOC
 Dumaguete -X- _ B-LOC
@@ -21729,7 +21729,7 @@ naapektahan -X- _ O
 sa -X- _ O
 pandemya -X- _ O
 sa -X- _ O
-COVID-19. -X- _ B-MISC
+COVID-19. -X- _ O-OTH
 Mahinumduman -X- _ O
 nga -X- _ O
 gipirmahan -X- _ O
@@ -21746,13 +21746,13 @@ sa -X- _ O
 National -X- _ O
 ID -X- _ O
 System—ang -X- _ O
-Philippine -X- _ B-MISC
-System -X- _ I-MISC
-Identification -X- _ I-MISC
-Act -X- _ I-MISC
+Philippine -X- _ O-OTH
+System -X- _ I-OTH
+Identification -X- _ I-OTH
+Act -X- _ I-OTH
 ( -X- _ O
-PhilSys -X- _ B-MISC
-Act -X- _ I-MISC
+PhilSys -X- _ O-OTH
+Act -X- _ I-OTH
 ) -X- _ O
 . -X- _ O
 Tumong -X- _ O
@@ -21769,7 +21769,7 @@ nga -X- _ O
 magamit -X- _ O
 sa -X- _ O
 mga -X- _ O
-Pilipino -X- _ B-MISC
+Pilipino -X- _ O-OTH
 alang -X- _ O
 sa -X- _ O
 tanang -X- _ O
@@ -22199,8 +22199,8 @@ rigs -X- _ O
 Naka -X- _ O
 tilaw -X- _ O
 namos -X- _ O
-Nature -X- _ B-MISC
-Spring -X- _ I-MISC
+Nature -X- _ O-OTH
+Spring -X- _ I-OTH
 Vinegar -X- _ O
 version -X- _ O
 ? -X- _ O
@@ -22559,8 +22559,8 @@ sa -X- _ O
 Taho -X- _ O
 nga -X- _ O
 ang -X- _ O
-Ceres -X- _ B-MISC
-Bus -X- _ I-MISC
+Ceres -X- _ O-OTH
+Bus -X- _ I-OTH
 ni -X- _ O
 diretso -X- _ O
 kinig -X- _ O
@@ -22587,8 +22587,8 @@ napasok -X- _ O
 sa -X- _ O
 ilalom -X- _ O
 sa -X- _ O
-Ceres -X- _ B-MISC
-Bus -X- _ I-MISC
+Ceres -X- _ O-OTH
+Bus -X- _ I-OTH
 , -X- _ O
 samtang -X- _ O
 pipila -X- _ O
@@ -22622,7 +22622,7 @@ scary -X- _ O
 na -X- _ O
 kaau. -X- _ O
 Fellow -X- _ O
-Pinoys -X- _ B-MISC
+Pinoys -X- _ O-OTH
 nga -X- _ O
 naa -X- _ O
 diha -X- _ O
@@ -22785,7 +22785,7 @@ sling -X- _ O
 bag -X- _ O
 color -X- _ O
 gray -X- _ O
-bench -X- _ B-MISC
+bench -X- _ O-OTH
 ang -X- _ O
 brand -X- _ O
 , -X- _ O
@@ -23133,7 +23133,7 @@ permi -X- _ O
 diha -X- _ O
 mga -X- _ O
 fellow -X- _ O
-Pinoys -X- _ B-MISC
+Pinoys -X- _ O-OTH
 . -X- _ O
 
 We -X- _ O
@@ -23219,9 +23219,9 @@ PRIORITY -X- _ O
 LEGISLATIVE -X- _ O
 AGENDA -X- _ O
 SA -X- _ O
-MARCOS -X- _ B-MISC
-JR. -X- _ I-MISC
-ADMINISTRATION -X- _ I-MISC
+MARCOS -X- _ O-OTH
+JR. -X- _ I-OTH
+ADMINISTRATION -X- _ I-OTH
 Nipadayag -X- _ O
 si -X- _ O
 Vice -X- _ O
@@ -23239,9 +23239,9 @@ sa -X- _ O
 legislative -X- _ O
 agenda -X- _ O
 sa -X- _ O
-Marcos -X- _ B-MISC
-Jr. -X- _ I-MISC
-administration -X- _ I-MISC
+Marcos -X- _ O-OTH
+Jr. -X- _ I-OTH
+administration -X- _ I-OTH
 ang -X- _ O
 mandatoy -X- _ O
 Reserve -X- _ B-ORG
@@ -23277,7 +23277,7 @@ military -X- _ O
 training -X- _ O
 sa -X- _ O
 mga -X- _ O
-Pilipino -X- _ B-MISC
+Pilipino -X- _ O-OTH
 nga -X- _ O
 moabot -X- _ O
 sa -X- _ O
@@ -23328,9 +23328,9 @@ isip -X- _ O
 education -X- _ O
 secretary -X- _ O
 sa -X- _ O
-Marcos -X- _ B-MISC
-Jr. -X- _ I-MISC
-administration. -X- _ I-MISC
+Marcos -X- _ O-OTH
+Jr. -X- _ I-OTH
+administration. -X- _ I-OTH
 Niadtong -X- _ O
 2002 -X- _ O
 , -X- _ O
@@ -23341,21 +23341,21 @@ military -X- _ O
 training -X- _ O
 pinaagi -X- _ O
 sa -X- _ O
-National -X- _ B-MISC
-Service -X- _ I-MISC
-Training -X- _ I-MISC
-Program -X- _ I-MISC
-( -X- _ I-MISC
-NSTP -X- _ I-MISC
-) -X- _ I-MISC
-Act -X- _ I-MISC
-of -X- _ I-MISC
-2001 -X- _ I-MISC
+National -X- _ O-OTH
+Service -X- _ I-OTH
+Training -X- _ I-OTH
+Program -X- _ I-OTH
+( -X- _ I-OTH
+NSTP -X- _ I-OTH
+) -X- _ I-OTH
+Act -X- _ I-OTH
+of -X- _ I-OTH
+2001 -X- _ I-OTH
 ( -X- _ O
-Republic -X- _ B-MISC
-Act -X- _ I-MISC
-No. -X- _ I-MISC
-9163 -X- _ I-MISC
+Republic -X- _ O-OTH
+Act -X- _ I-OTH
+No. -X- _ I-OTH
+9163 -X- _ I-OTH
 ) -X- _ O
 . -X- _ O
 Ang -X- _ O
@@ -23436,7 +23436,7 @@ nakasaksi -X- _ O
 # -X- _ O
 awareness -X- _ O
 # -X- _ O
-huskies -X- _ B-MISC
+huskies -X- _ O-OTH
 Init -X- _ O
 raba -X- _ O
 kaau -X- _ O
@@ -23477,7 +23477,7 @@ dalan -X- _ O
 ang -X- _ O
 usa -X- _ O
 ka -X- _ O
-Ceres -X- _ B-MISC
+Ceres -X- _ O-OTH
 bus -X- _ O
 nga -X- _ O
 ubay-ubay -X- _ O
@@ -23720,7 +23720,7 @@ H -X- _ O
 
 Lupig -X- _ O
 ang -X- _ O
-bitcoin -X- _ B-MISC
+bitcoin -X- _ O-OTH
 ani. -X- _ O
 Madahan -X- _ O
 dugay -X- _ O
@@ -23893,10 +23893,10 @@ outstanding -X- _ O
 performance -X- _ O
 atol -X- _ O
 sa -X- _ O
-National -X- _ B-MISC
-Invitational -X- _ I-MISC
-Volleyball -X- _ I-MISC
-Competition -X- _ I-MISC
+National -X- _ O-OTH
+Invitational -X- _ I-OTH
+Volleyball -X- _ I-OTH
+Competition -X- _ I-OTH
 nga -X- _ O
 gipahigayon -X- _ O
 sa -X- _ O
@@ -24006,8 +24006,8 @@ lisodan -X- _ O
 ang -X- _ O
 umalabot -X- _ O
 nga -X- _ O
-Marcos -X- _ B-MISC
-administration -X- _ I-MISC
+Marcos -X- _ O-OTH
+administration -X- _ I-OTH
 nga -X- _ O
 makab-ot -X- _ O
 ang -X- _ O
@@ -24394,7 +24394,7 @@ ras -X- _ O
 kwarta -X- _ O
 sa -X- _ O
 mga -X- _ O
-Filipino -X- _ B-MISC
+Filipino -X- _ O-OTH
 people. -X- _ O
 Si -X- _ O
 Mark -X- _ B-PER
@@ -24545,10 +24545,10 @@ supak -X- _ O
 nga -X- _ O
 isibog -X- _ O
 ang -X- _ O
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-SK -X- _ I-MISC
-elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+SK -X- _ I-OTH
+elections -X- _ I-OTH
 , -X- _ O
 apan -X- _ O
 adunay -X- _ O
@@ -24578,7 +24578,7 @@ Banc -X- _ I-ORG
 Mapostpone -X- _ O
 kaha -X- _ O
 ang -X- _ O
-BSKE -X- _ B-MISC
+BSKE -X- _ O-OTH
 sa -X- _ O
 Oktubre -X- _ O
 30 -X- _ O
@@ -24633,10 +24633,10 @@ isibog -X- _ O
 ang -X- _ O
 piniliay -X- _ O
 sa -X- _ O
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-SK -X- _ I-MISC
-Elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+SK -X- _ I-OTH
+Elections -X- _ I-OTH
 sa -X- _ O
 Negros -X- _ B-LOC
 Oriental -X- _ I-LOC
@@ -24674,9 +24674,9 @@ Daghang -X- _ O
 Salamat -X- _ O
 ! -X- _ O
 
-Bag-ong -X- _ B-MISC
-Traffic -X- _ I-MISC
-Code -X- _ I-MISC
+Bag-ong -X- _ O-OTH
+Traffic -X- _ I-OTH
+Code -X- _ I-OTH
 ipatuman -X- _ O
 sunod -X- _ O
 bulan -X- _ O
@@ -24691,16 +24691,16 @@ karong -X- _ O
 Hulyo -X- _ O
 1 -X- _ O
 ang -X- _ O
-Ordinance -X- _ B-MISC
-No. -X- _ I-MISC
-32 -X- _ I-MISC
+Ordinance -X- _ O-OTH
+No. -X- _ I-OTH
+32 -X- _ I-OTH
 o -X- _ O
-New -X- _ B-MISC
-Traffic -X- _ I-MISC
-Code -X- _ I-MISC
-of -X- _ I-MISC
-Bayawan -X- _ I-MISC
-City. -X- _ I-MISC
+New -X- _ O-OTH
+Traffic -X- _ I-OTH
+Code -X- _ I-OTH
+of -X- _ I-OTH
+Bayawan -X- _ I-OTH
+City. -X- _ I-OTH
 Sa -X- _ O
 bag-ong -X- _ O
 traffic -X- _ O
@@ -24747,9 +24747,9 @@ e-update. -X- _ O
 Gani -X- _ O
 , -X- _ O
 sa -X- _ O
-Bag-ong -X- _ B-MISC
-Traffic -X- _ I-MISC
-Code -X- _ I-MISC
+Bag-ong -X- _ O-OTH
+Traffic -X- _ I-OTH
+Code -X- _ I-OTH
 , -X- _ O
 kung -X- _ O
 ikaw -X- _ O
@@ -24811,16 +24811,16 @@ maong -X- _ O
 mga -X- _ O
 violations -X- _ O
 sa -X- _ O
-Traffic -X- _ B-MISC
-Discipline -X- _ I-MISC
-Zone -X- _ I-MISC
+Traffic -X- _ O-OTH
+Discipline -X- _ I-OTH
+Zone -X- _ I-OTH
 madoble -X- _ O
 ang -X- _ O
 penalty. -X- _ O
 Ang -X- _ O
-Traffic -X- _ B-MISC
-Discipline -X- _ I-MISC
-zone -X- _ I-MISC
+Traffic -X- _ O-OTH
+Discipline -X- _ I-OTH
+zone -X- _ I-OTH
 sa -X- _ O
 National -X- _ B-LOC
 Highway -X- _ I-LOC
@@ -24963,10 +24963,10 @@ sa -X- _ O
 gawasnong -X- _ O
 nasod -X- _ O
 ng -X- _ O
-Pilipinhon. -X- _ B-MISC
+Pilipinhon. -X- _ O-OTH
 Happy -X- _ O
-Independence -X- _ B-MISC
-Day -X- _ I-MISC
+Independence -X- _ O-OTH
+Day -X- _ I-OTH
 , -X- _ O
 Philippines -X- _ B-LOC
 ! -X- _ O
@@ -25011,10 +25011,10 @@ nagduso -X- _ O
 nga -X- _ O
 isibog -X- _ O
 ang -X- _ O
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-SK -X- _ I-MISC
-Elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+SK -X- _ I-OTH
+Elections -X- _ I-OTH
 imbes -X- _ O
 nga -X- _ O
 idungan -X- _ O
@@ -25102,9 +25102,9 @@ kunoy -X- _ O
 vaccine -X- _ O
 batok -X- _ O
 sa -X- _ O
-African -X- _ B-MISC
-Swine -X- _ I-MISC
-Fever. -X- _ I-MISC
+African -X- _ O-OTH
+Swine -X- _ I-OTH
+Fever. -X- _ I-OTH
 Gisulayan -X- _ O
 na -X- _ O
 sa -X- _ O
@@ -25189,11 +25189,11 @@ ang -X- _ O
 mga -X- _ O
 mokandidato -X- _ O
 sa -X- _ O
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-Sangguniang -X- _ I-MISC
-Kabataan -X- _ I-MISC
-Elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+Sangguniang -X- _ I-OTH
+Kabataan -X- _ I-OTH
+Elections -X- _ I-OTH
 ? -X- _ O
 Si -X- _ O
 SILG -X- _ O
@@ -25274,12 +25274,12 @@ TAN-AWA -X- _ O
 : -X- _ O
 Unsa -X- _ O
 ang -X- _ O
-ASF -X- _ B-MISC
+ASF -X- _ O-OTH
 ? -X- _ O
 Unsaon -X- _ O
 paglikay -X- _ O
 ang -X- _ O
-ASF -X- _ B-MISC
+ASF -X- _ O-OTH
 ? -X- _ O
 
 Uyon -X- _ O
@@ -25309,9 +25309,9 @@ baboy -X- _ O
 nga -X- _ O
 infected -X- _ O
 sa -X- _ O
-African -X- _ B-MISC
-Swine -X- _ I-MISC
-Fever -X- _ I-MISC
+African -X- _ O-OTH
+Swine -X- _ I-OTH
+Fever -X- _ I-OTH
 ? -X- _ O
 
 Alang -X- _ O
@@ -25370,10 +25370,10 @@ sa -X- _ O
 ka -X- _ O
 bulan -X- _ O
 ang -X- _ O
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-SK -X- _ I-MISC
-Elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+SK -X- _ I-OTH
+Elections -X- _ I-OTH
 sa -X- _ O
 Negros -X- _ B-LOC
 Oriental -X- _ I-LOC
@@ -25396,7 +25396,7 @@ Visayas -X- _ I-LOC
 nga -X- _ O
 ipostpone -X- _ O
 ang -X- _ O
-BSKE -X- _ B-MISC
+BSKE -X- _ O-OTH
 sa -X- _ O
 Negros -X- _ B-LOC
 Oriental -X- _ I-LOC
@@ -25416,7 +25416,7 @@ pabor -X- _ O
 nga -X- _ O
 ipostpone -X- _ O
 ang -X- _ O
-BSKE -X- _ B-MISC
+BSKE -X- _ O-OTH
 sa -X- _ O
 Negros -X- _ B-LOC
 Oriental -X- _ I-LOC
@@ -25453,10 +25453,10 @@ ipostpone -X- _ O
 ang -X- _ O
 piniliay -X- _ O
 sa -X- _ O
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-Sangguniang -X- _ I-MISC
-Kabataan -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+Sangguniang -X- _ I-OTH
+Kabataan -X- _ I-OTH
 sud -X- _ O
 sa -X- _ O
 1 -X- _ O
@@ -25489,7 +25489,7 @@ uyon -X- _ O
 nga -X- _ O
 ipostpone -X- _ O
 ang -X- _ O
-BSKE -X- _ B-MISC
+BSKE -X- _ O-OTH
 pindota -X- _ O
 ang -X- _ O
 TUMBS-UP -X- _ O
@@ -25534,7 +25534,7 @@ Visayas -X- _ I-LOC
 nga -X- _ O
 ipostpone -X- _ O
 ang -X- _ O
-BSKE -X- _ B-MISC
+BSKE -X- _ O-OTH
 sa -X- _ O
 Negros -X- _ O
 Oriental -X- _ O
@@ -25627,7 +25627,7 @@ uyon -X- _ O
 nga -X- _ O
 ipostpone -X- _ O
 ang -X- _ O
-BSKE -X- _ B-MISC
+BSKE -X- _ O-OTH
 pindota -X- _ O
 ang -X- _ O
 TUMBS-UP -X- _ O
@@ -25669,10 +25669,10 @@ COMELEC -X- _ B-ORG
 nga -X- _ O
 i-postpone -X- _ O
 ang -X- _ O
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-SK -X- _ I-MISC
-Elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+SK -X- _ I-OTH
+Elections -X- _ I-OTH
 sa -X- _ O
 Negros -X- _ B-LOC
 Oriental -X- _ I-LOC
@@ -25832,7 +25832,7 @@ Organization -X- _ I-ORG
 nga -X- _ O
 nagtangtang -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 isip -X- _ O
 kahadlokang -X- _ O
 sakit -X- _ O
@@ -25938,8 +25938,8 @@ pagsaulog -X- _ O
 sa -X- _ O
 ika-121 -X- _ O
 nga -X- _ O
-Labor -X- _ B-MISC
-Day -X- _ I-MISC
+Labor -X- _ O-OTH
+Day -X- _ I-OTH
 sa -X- _ O
 Lunes -X- _ O
 , -X- _ O
@@ -26005,10 +26005,10 @@ mo -X- _ O
 nga -X- _ O
 ipostpone -X- _ O
 ang -X- _ O
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-SK -X- _ I-MISC
-Elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+SK -X- _ I-OTH
+Elections -X- _ I-OTH
 tungod -X- _ O
 kuno -X- _ O
 sa -X- _ O
@@ -26024,8 +26024,8 @@ ba -X- _ O
 nga -X- _ O
 ipailawom -X- _ O
 sa -X- _ O
-Martial -X- _ B-MISC
-Law -X- _ I-MISC
+Martial -X- _ O-OTH
+Law -X- _ I-OTH
 ang -X- _ O
 Negros -X- _ B-LOC
 Oriental -X- _ I-LOC
@@ -26107,8 +26107,8 @@ Kon -X- _ O
 nagsunod -X- _ O
 mo -X- _ O
 sa -X- _ O
-Senate -X- _ B-MISC
-Hearing -X- _ I-MISC
+Senate -X- _ O-OTH
+Hearing -X- _ I-OTH
 lambigit -X- _ O
 sa -X- _ O
 mga -X- _ O
@@ -26183,8 +26183,8 @@ adlaw -X- _ O
 nga -X- _ O
 gitakda -X- _ O
 ang -X- _ O
-SENATE -X- _ B-MISC
-HEARING -X- _ I-MISC
+SENATE -X- _ O-OTH
+HEARING -X- _ I-OTH
 nunot -X- _ O
 sa -X- _ O
 pagpamatay -X- _ O
@@ -26242,8 +26242,8 @@ pangalan -X- _ O
 nga -X- _ O
 ikabutyag -X- _ O
 sa -X- _ O
-Senate -X- _ B-MISC
-Hearing -X- _ I-MISC
+Senate -X- _ O-OTH
+Hearing -X- _ I-OTH
 ? -X- _ O
 
 Sakto -X- _ O
@@ -26259,8 +26259,8 @@ Teves -X- _ I-PER
 nga -X- _ O
 makatambong -X- _ O
 sa -X- _ O
-Senate -X- _ B-MISC
-Hearing -X- _ I-MISC
+Senate -X- _ O-OTH
+Hearing -X- _ I-OTH
 pinaagi -X- _ O
 sa -X- _ O
 zoom -X- _ B-ORG
@@ -26591,8 +26591,8 @@ na -X- _ O
 sa -X- _ O
 atol -X- _ O
 sa -X- _ O
-LABOR -X- _ B-MISC
-DAY -X- _ I-MISC
+LABOR -X- _ O-OTH
+DAY -X- _ I-OTH
 mas -X- _ O
 daghan -X- _ O
 pa -X- _ O
@@ -26685,10 +26685,10 @@ kay -X- _ O
 hapit -X- _ O
 na -X- _ O
 ang -X- _ O
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-SK -X- _ I-MISC
-elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+SK -X- _ I-OTH
+elections -X- _ I-OTH
 ? -X- _ O
 Hain -X- _ O
 man -X- _ O
@@ -26737,16 +26737,16 @@ Activities -X- _ O
 alang -X- _ O
 sa -X- _ O
 2023 -X- _ O
-Barangay -X- _ B-MISC
-and -X- _ I-MISC
-Sangguniang -X- _ I-MISC
-Kabataan -X- _ I-MISC
-Elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+and -X- _ I-OTH
+Sangguniang -X- _ I-OTH
+Kabataan -X- _ I-OTH
+Elections -X- _ I-OTH
 pinasikad -X- _ O
 sa -X- _ O
-Resolution -X- _ B-MISC
-No. -X- _ I-MISC
-10902 -X- _ I-MISC
+Resolution -X- _ O-OTH
+No. -X- _ I-OTH
+10902 -X- _ I-OTH
 # -X- _ O
 COMELEC -X- _ O
 # -X- _ O
@@ -26886,7 +26886,7 @@ Bisan -X- _ O
 nakabalo -X- _ O
 ta -X- _ O
 nga -X- _ O
-ASF -X- _ B-MISC
+ASF -X- _ O-OTH
 free -X- _ O
 ang -X- _ O
 Negros -X- _ B-LOC
@@ -26975,7 +26975,7 @@ baboy -X- _ O
 nga -X- _ O
 infected -X- _ O
 sa -X- _ O
-ASF -X- _ B-MISC
+ASF -X- _ O-OTH
 ug -X- _ O
 nanakod -X- _ O
 sa -X- _ O
@@ -27228,8 +27228,8 @@ sa -X- _ O
 mga -X- _ O
 mamumuno -X- _ O
 sa -X- _ O
-Pamplona -X- _ B-MISC
-Massacre -X- _ I-MISC
+Pamplona -X- _ O-OTH
+Massacre -X- _ I-OTH
 ? -X- _ O
 
 Karon -X- _ O
@@ -27403,9 +27403,9 @@ mo -X- _ O
 nga -X- _ O
 ipailawom -X- _ O
 sa -X- _ O
-State -X- _ B-MISC
-of -X- _ I-MISC
-Emergency -X- _ I-MISC
+State -X- _ O-OTH
+of -X- _ I-OTH
+Emergency -X- _ I-OTH
 ang -X- _ O
 tibuok -X- _ O
 Negros -X- _ B-LOC
@@ -27417,8 +27417,8 @@ ba -X- _ O
 ang -X- _ O
 pagpatuman -X- _ O
 sa -X- _ O
-anti-smoking -X- _ B-MISC
-Ordinance -X- _ I-MISC
+anti-smoking -X- _ O-OTH
+Ordinance -X- _ I-OTH
 o -X- _ O
 wala -X- _ O
 na -X- _ O
@@ -27434,10 +27434,10 @@ na -X- _ O
 ang -X- _ O
 pagsaulog -X- _ O
 sa -X- _ O
-EDSA -X- _ B-MISC
-People -X- _ I-MISC
-Power -X- _ I-MISC
-Revolution. -X- _ I-MISC
+EDSA -X- _ O-OTH
+People -X- _ I-OTH
+Power -X- _ I-OTH
+Revolution. -X- _ I-OTH
 Aduna -X- _ O
 say -X- _ O
 lakang -X- _ O
@@ -27448,10 +27448,10 @@ history -X- _ O
 sa -X- _ O
 Pilipinas -X- _ B-LOC
 ang -X- _ O
-EDSA -X- _ B-MISC
-People -X- _ I-MISC
-Power -X- _ I-MISC
-Revolution -X- _ I-MISC
+EDSA -X- _ O-OTH
+People -X- _ I-OTH
+Power -X- _ I-OTH
+Revolution -X- _ I-OTH
 ? -X- _ O
 Unsay -X- _ O
 inyong -X- _ O
@@ -27546,11 +27546,11 @@ Negros -X- _ B-LOC
 Oriental -X- _ I-LOC
 miduso -X- _ O
 sa -X- _ O
-Negros -X- _ B-MISC
-Island -X- _ I-MISC
-Region -X- _ I-MISC
-Proposed -X- _ I-MISC
-Bill. -X- _ I-MISC
+Negros -X- _ O-OTH
+Island -X- _ I-OTH
+Region -X- _ I-OTH
+Proposed -X- _ I-OTH
+Bill. -X- _ I-OTH
 Ang -X- _ O
 Kongresista -X- _ O
 ug -X- _ O
@@ -27601,8 +27601,8 @@ Uyon -X- _ O
 ba -X- _ O
 mo -X- _ O
 sa -X- _ O
-NIR -X- _ B-MISC
-Regionhood -X- _ I-MISC
+NIR -X- _ O-OTH
+Regionhood -X- _ I-OTH
 o -X- _ O
 dili -X- _ O
 ? -X- _ O
@@ -27884,12 +27884,12 @@ mo -X- _ O
 nga -X- _ O
 ilisan -X- _ O
 ang -X- _ O
-Batakang -X- _ B-MISC
-Balaod -X- _ I-MISC
+Batakang -X- _ O-OTH
+Balaod -X- _ I-OTH
 o -X- _ O
-1987 -X- _ B-MISC
-Philippine -X- _ I-MISC
-Constitution -X- _ I-MISC
+1987 -X- _ O-OTH
+Philippine -X- _ I-OTH
+Constitution -X- _ I-OTH
 ? -X- _ O
 
 Makalahutay -X- _ O
@@ -28054,9 +28054,9 @@ lingaw-lingaw -X- _ O
 , -X- _ O
 tawag -X- _ O
 sa -X- _ O
-Papa -X- _ B-MISC
-Bai -X- _ I-MISC
-Rent-A-Van -X- _ I-MISC
+Papa -X- _ O-OTH
+Bai -X- _ I-OTH
+Rent-A-Van -X- _ I-OTH
 sa -X- _ O
 0967-310-0693. -X- _ O
 Pangita -X- _ O
@@ -28154,7 +28154,7 @@ mga -X- _ O
 biktima -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Sendong -X- _ B-MISC
+Sendong -X- _ O-OTH
 sa -X- _ O
 relocation -X- _ O
 site -X- _ O
@@ -28580,10 +28580,10 @@ longweekend -X- _ O
 Ning -X- _ O
 panahon -X- _ O
 sa -X- _ O
-pasko -X- _ B-MISC
+pasko -X- _ O-OTH
 ug -X- _ O
-bag-ong -X- _ B-MISC
-tuig -X- _ I-MISC
+bag-ong -X- _ O-OTH
+tuig -X- _ I-OTH
 , -X- _ O
 angay -X- _ O
 na -X- _ O
@@ -28806,9 +28806,9 @@ ug -X- _ O
 SSS -X- _ B-ORG
 ibutang -X- _ O
 sa -X- _ O
-Maharlika -X- _ B-MISC
-Wealth -X- _ I-MISC
-Fund -X- _ I-MISC
+Maharlika -X- _ O-OTH
+Wealth -X- _ I-OTH
+Fund -X- _ I-OTH
 ? -X- _ O
 Hinuon -X- _ O
 , -X- _ O
@@ -28832,9 +28832,9 @@ GSIS -X- _ B-ORG
 ug -X- _ O
 SSS -X- _ B-ORG
 sa -X- _ O
-Maharlika -X- _ B-MISC
-Wealth -X- _ I-MISC
-Fund -X- _ I-MISC
+Maharlika -X- _ O-OTH
+Wealth -X- _ I-OTH
+Fund -X- _ I-OTH
 unsay -X- _ O
 imong -X- _ O
 opinion -X- _ O
@@ -28874,10 +28874,10 @@ kon -X- _ O
 mahinayon -X- _ O
 pag-amendar -X- _ O
 ang -X- _ O
-Senior -X- _ B-MISC
-Citizen -X- _ I-MISC
-'s -X- _ I-MISC
-Law -X- _ I-MISC
+Senior -X- _ O-OTH
+Citizen -X- _ I-OTH
+'s -X- _ I-OTH
+Law -X- _ I-OTH
 sigon -X- _ O
 sa -X- _ O
 giduso -X- _ O
@@ -28909,9 +28909,9 @@ ihiklin -X- _ O
 ang -X- _ O
 giquestioned -X- _ O
 nga -X- _ O
-Annual -X- _ B-MISC
-Investment -X- _ I-MISC
-Plan -X- _ I-MISC
+Annual -X- _ O-OTH
+Investment -X- _ I-OTH
+Plan -X- _ I-OTH
 sa -X- _ O
 Dumaguete. -X- _ B-LOC
 Gani -X- _ O
@@ -28964,7 +28964,7 @@ sa -X- _ O
 Barangay -X- _ O
 Council -X- _ O
 sa -X- _ O
-Batinguel -X- _ B-MISC
+Batinguel -X- _ O-OTH
 ani -X- _ O
 dri -X- _ O
 dapit -X- _ O
@@ -29213,9 +29213,9 @@ US -X- _ O
 ON -X- _ O
 FACEBOOK -X- _ B-ORG
 : -X- _ O
-Energy -X- _ B-MISC
-FM -X- _ I-MISC
-Dumaguete -X- _ I-MISC
+Energy -X- _ O-OTH
+FM -X- _ I-OTH
+Dumaguete -X- _ I-OTH
 
 Sa -X- _ O
 imong -X- _ O
@@ -29288,11 +29288,11 @@ sa -X- _ O
 kasong -X- _ O
 paglapas -X- _ O
 sa -X- _ O
-Comprehensive -X- _ B-MISC
-Drugs -X- _ I-MISC
-Act -X- _ I-MISC
-of -X- _ I-MISC
-2022 -X- _ I-MISC
+Comprehensive -X- _ O-OTH
+Drugs -X- _ I-OTH
+Act -X- _ I-OTH
+of -X- _ I-OTH
+2022 -X- _ I-OTH
 gumikan -X- _ O
 sa -X- _ O
 pagpayuhot -X- _ O
@@ -29373,11 +29373,11 @@ majority -X- _ O
 sa -X- _ O
 konseho -X- _ O
 sa -X- _ O
-2023 -X- _ B-MISC
-proposed -X- _ I-MISC
-Annual -X- _ I-MISC
-Investment -X- _ I-MISC
-Plan -X- _ I-MISC
+2023 -X- _ O-OTH
+proposed -X- _ I-OTH
+Annual -X- _ I-OTH
+Investment -X- _ I-OTH
+Plan -X- _ I-OTH
 gumikan -X- _ O
 sa -X- _ O
 isyu -X- _ O
@@ -29415,17 +29415,17 @@ unsa -X- _ O
 ka -X- _ O
 bililhon -X- _ O
 ang -X- _ O
-2023 -X- _ B-MISC
-Proposed -X- _ I-MISC
-Annual -X- _ I-MISC
-Investment -X- _ I-MISC
-Plan -X- _ I-MISC
+2023 -X- _ O-OTH
+Proposed -X- _ I-OTH
+Annual -X- _ I-OTH
+Investment -X- _ I-OTH
+Plan -X- _ I-OTH
 aron -X- _ O
 matuki -X- _ O
 ang -X- _ O
-2023 -X- _ B-MISC
-Annuan -X- _ I-MISC
-Budget. -X- _ I-MISC
+2023 -X- _ O-OTH
+Annuan -X- _ I-OTH
+Budget. -X- _ I-OTH
 Mitiyabaw -X- _ O
 usab -X- _ O
 si -X- _ O
@@ -29677,7 +29677,7 @@ Unsay -X- _ O
 kadaot -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Paeng -X- _ B-MISC
+Paeng -X- _ O-OTH
 sa -X- _ O
 inyong -X- _ O
 lugar -X- _ O
@@ -29931,9 +29931,9 @@ sumala -X- _ O
 sa -X- _ O
 DILG -X- _ B-ORG
 
-BUGLASAN -X- _ B-MISC
-FESTIVAL -X- _ I-MISC
-2022 -X- _ I-MISC
+BUGLASAN -X- _ O-OTH
+FESTIVAL -X- _ I-OTH
+2022 -X- _ I-OTH
 Para -X- _ O
 ninyo -X- _ O
 , -X- _ O
@@ -29943,8 +29943,8 @@ labing -X- _ O
 maayong -X- _ O
 venue -X- _ O
 sa -X- _ O
-Buglasan -X- _ B-MISC
-Festival -X- _ I-MISC
+Buglasan -X- _ O-OTH
+Festival -X- _ I-OTH
 , -X- _ O
 sa -X- _ O
 Pantawan -X- _ B-LOC
@@ -29999,9 +29999,9 @@ valid -X- _ O
 ang -X- _ O
 kontrobersiyal -X- _ O
 nga -X- _ O
-“Midnight” -X- _ B-MISC
-Appropriation -X- _ I-MISC
-Ordinance -X- _ I-MISC
+“Midnight” -X- _ O-OTH
+Appropriation -X- _ I-OTH
+Ordinance -X- _ I-OTH
 nga -X- _ O
 naglumpong -X- _ O
 sa -X- _ O
@@ -30092,7 +30092,7 @@ na -X- _ O
 ang -X- _ O
 selebrasyon -X- _ O
 sa -X- _ O
-Buglasan -X- _ B-MISC
+Buglasan -X- _ O-OTH
 sa -X- _ O
 Pantawan -X- _ B-LOC
 People -X- _ I-LOC
@@ -30107,8 +30107,8 @@ ipadayon -X- _ O
 ang -X- _ O
 selebrashon -X- _ O
 sa -X- _ O
-Buglasan -X- _ B-MISC
-Festival -X- _ I-MISC
+Buglasan -X- _ O-OTH
+Festival -X- _ I-OTH
 sa -X- _ O
 Freedom -X- _ B-LOC
 Park -X- _ I-LOC
@@ -30119,8 +30119,8 @@ Kapitolyo. -X- _ B-LOC
 Ang -X- _ O
 selebrasyon -X- _ O
 sa -X- _ O
-Buglasan -X- _ B-MISC
-Festival -X- _ I-MISC
+Buglasan -X- _ O-OTH
+Festival -X- _ I-OTH
 buksan -X- _ O
 sa -X- _ O
 Oktubre -X- _ O
@@ -30141,9 +30141,9 @@ nga -X- _ O
 kanhing -X- _ O
 chairman -X- _ O
 sa -X- _ O
-Buglasan -X- _ B-MISC
-Festival -X- _ I-MISC
-2022 -X- _ I-MISC
+Buglasan -X- _ O-OTH
+Festival -X- _ I-OTH
+2022 -X- _ I-OTH
 ilawom -X- _ O
 sa -X- _ O
 administrasyon -X- _ O
@@ -30180,8 +30180,8 @@ mao -X- _ O
 ang -X- _ O
 chairperson -X- _ O
 sa -X- _ O
-Buglasan -X- _ B-MISC
-2022 -X- _ I-MISC
+Buglasan -X- _ O-OTH
+2022 -X- _ I-OTH
 . -X- _ O
 
 Taho -X- _ O
@@ -30611,9 +30611,9 @@ ang -X- _ O
 Provincial -X- _ O
 Hymn -X- _ O
 nga -X- _ O
-“Garbo -X- _ B-MISC
-sa -X- _ I-MISC
-Kabisay-an” -X- _ I-MISC
+“Garbo -X- _ O-OTH
+sa -X- _ I-OTH
+Kabisay-an” -X- _ I-OTH
 matag -X- _ O
 adunay -X- _ O
 kalihokan -X- _ O
@@ -30623,8 +30623,8 @@ ang -X- _ O
 nasudnong -X- _ O
 awit -X- _ O
 nga -X- _ O
-“Lupang -X- _ B-MISC
-Hinirang. -X- _ I-MISC
+“Lupang -X- _ O-OTH
+Hinirang. -X- _ I-OTH
 ”Akong -X- _ O
 gitunol -X- _ O
 ang -X- _ O
@@ -30770,9 +30770,9 @@ sa -X- _ O
 ikaduhang -X- _ O
 stanza -X- _ O
 sa -X- _ O
-“Garbo -X- _ B-MISC
-sa -X- _ I-MISC
-Kabisay-an.” -X- _ I-MISC
+“Garbo -X- _ O-OTH
+sa -X- _ I-OTH
+Kabisay-an.” -X- _ I-OTH
 Yes. -X- _ O
 Dili -X- _ O
 na -X- _ O
@@ -30874,9 +30874,9 @@ titulo -X- _ O
 o -X- _ O
 ulohan -X- _ O
 nga -X- _ O
-“Garbo -X- _ B-MISC
-sa -X- _ I-MISC
-Kabisay-an. -X- _ I-MISC
+“Garbo -X- _ O-OTH
+sa -X- _ I-OTH
+Kabisay-an. -X- _ I-OTH
 ”Usbon -X- _ O
 nako -X- _ O
 , -X- _ O
@@ -31254,11 +31254,11 @@ nakapunit -X- _ O
 sa -X- _ O
 cellphone -X- _ O
 nga -X- _ O
-Redmi -X- _ B-MISC
+Redmi -X- _ O-OTH
 Note -X- _ O
 10 -X- _ O
 Pro -X- _ O
-Xaomi -X- _ B-MISC
+Xaomi -X- _ O-OTH
 niadtong -X- _ O
 Aug. -X- _ O
 31 -X- _ O
@@ -31729,10 +31729,10 @@ ang -X- _ O
 subling -X- _ O
 pagbukas -X- _ O
 sa -X- _ O
-JUSTO -X- _ B-MISC
-Special -X- _ I-MISC
-Ice -X- _ I-MISC
-Cream -X- _ I-MISC
+JUSTO -X- _ O-OTH
+Special -X- _ I-OTH
+Ice -X- _ I-OTH
+Cream -X- _ I-OTH
 atubangan -X- _ O
 sa -X- _ O
 Batinguel -X- _ B-LOC
@@ -32042,10 +32042,10 @@ mga -X- _ O
 bag-ong -X- _ O
 botante -X- _ O
 sa -X- _ O
-SK -X- _ B-MISC
-ug -X- _ I-MISC
-Barangay -X- _ I-MISC
-Elections -X- _ I-MISC
+SK -X- _ O-OTH
+ug -X- _ I-OTH
+Barangay -X- _ I-OTH
+Elections -X- _ I-OTH
 sa -X- _ O
 Disiembre -X- _ O
 5. -X- _ O
@@ -32118,12 +32118,12 @@ nagsaka -X- _ O
 ng -X- _ O
 kaso -X- _ O
 sa -X- _ O
-dengue -X- _ B-MISC
+dengue -X- _ O-OTH
 , -X- _ O
 magpabakuna -X- _ O
 ka -X- _ O
 bag -X- _ O
-dengvaxia -X- _ B-MISC
+dengvaxia -X- _ O-OTH
 ? -X- _ O
 
 GOOD -X- _ O
@@ -32155,8 +32155,8 @@ Pabor -X- _ O
 ka -X- _ O
 ba -X- _ O
 sa -X- _ O
-Divorce -X- _ B-MISC
-Bill -X- _ I-MISC
+Divorce -X- _ O-OTH
+Bill -X- _ I-OTH
 ? -X- _ O
 Sa -X- _ O
 imong -X- _ O
@@ -32638,8 +32638,8 @@ SURVEY -X- _ O
 : -X- _ O
 Ilawom -X- _ O
 sa -X- _ O
-MODERNIZATION -X- _ B-MISC
-PROGRAM -X- _ I-MISC
+MODERNIZATION -X- _ O-OTH
+PROGRAM -X- _ I-OTH
 sa -X- _ O
 nasudnong -X- _ O
 kagamhanan -X- _ O
@@ -32738,10 +32738,10 @@ botante -X- _ O
 isip -X- _ O
 pagpangandam -X- _ O
 sa -X- _ O
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-SK -X- _ I-MISC
-Elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+SK -X- _ I-OTH
+Elections -X- _ I-OTH
 sa -X- _ O
 December -X- _ O
 5 -X- _ O
@@ -32764,10 +32764,10 @@ adlawa. -X- _ O
 Aron -X- _ O
 makabotar -X- _ O
 sa -X- _ O
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-SK -X- _ I-MISC
-Elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+SK -X- _ I-OTH
+Elections -X- _ I-OTH
 sa -X- _ O
 December -X- _ O
 5 -X- _ O
@@ -32913,10 +32913,10 @@ Henry -X- _ I-PER
 Teves. -X- _ I-PER
 Sa -X- _ O
 iyang -X- _ O
-Executive -X- _ B-MISC
-Order -X- _ I-MISC
-No. -X- _ I-MISC
-18 -X- _ I-MISC
+Executive -X- _ O-OTH
+Order -X- _ I-OTH
+No. -X- _ I-OTH
+18 -X- _ I-OTH
 , -X- _ O
 nga -X- _ O
 gipirmahan -X- _ O
@@ -33009,7 +33009,7 @@ mo -X- _ O
 nga -X- _ O
 wagtangon -X- _ O
 ang -X- _ O
-K-12 -X- _ B-MISC
+K-12 -X- _ O-OTH
 ? -X- _ O
 
 P20,000 -X- _ O
@@ -33037,7 +33037,7 @@ ba -X- _ O
 mo -X- _ O
 nga -X- _ O
 magpagama -X- _ O
-Olympic -X- _ B-MISC
+Olympic -X- _ O-OTH
 size -X- _ O
 swimming -X- _ O
 pool -X- _ O
@@ -33051,10 +33051,10 @@ sa -X- _ O
 Dumaguete -X- _ B-LOC
 City -X- _ I-LOC
 
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-SK -X- _ I-MISC
-Elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+SK -X- _ I-OTH
+Elections -X- _ I-OTH
 gitakda -X- _ O
 sa -X- _ O
 Disyembre -X- _ O
@@ -33276,7 +33276,7 @@ ang -X- _ O
 magpabakuna -X- _ O
 batok -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 ? -X- _ O
 
 Angay -X- _ O
@@ -33402,10 +33402,10 @@ sigon -X- _ O
 sa -X- _ O
 gilatid -X- _ O
 sa -X- _ O
-Wage -X- _ B-MISC
-Order -X- _ I-MISC
-No. -X- _ I-MISC
-ROVII-23. -X- _ I-MISC
+Wage -X- _ O-OTH
+Order -X- _ I-OTH
+No. -X- _ I-OTH
+ROVII-23. -X- _ I-OTH
 Sa -X- _ O
 samang -X- _ O
 paagi -X- _ O
@@ -33576,9 +33576,9 @@ uli -X- _ O
 gikan -X- _ O
 sa -X- _ O
 " -X- _ O
-Byahe -X- _ B-MISC
-ni -X- _ I-MISC
-Drew -X- _ I-MISC
+Byahe -X- _ O-OTH
+ni -X- _ I-OTH
+Drew -X- _ I-OTH
 " -X- _ O
 momabdos -X- _ O
 si -X- _ O
@@ -33599,10 +33599,10 @@ TEAM -X- _ I-ORG
 2ND -X- _ O
 PLACER -X- _ O
 SA -X- _ O
-2022 -X- _ B-MISC
-DUMAA -X- _ I-MISC
-ARNIS -X- _ I-MISC
-TOURNAMENT -X- _ I-MISC
+2022 -X- _ O-OTH
+DUMAA -X- _ I-OTH
+ARNIS -X- _ I-OTH
+TOURNAMENT -X- _ I-OTH
 2ND -X- _ O
 placer -X- _ O
 ang -X- _ O
@@ -33612,10 +33612,10 @@ Arnis -X- _ I-ORG
 Team -X- _ I-ORG
 atol -X- _ O
 sa -X- _ O
-2022 -X- _ B-MISC
-DUMAA -X- _ I-MISC
-Arnis -X- _ I-MISC
-Tournament -X- _ I-MISC
+2022 -X- _ O-OTH
+DUMAA -X- _ I-OTH
+Arnis -X- _ I-OTH
+Tournament -X- _ I-OTH
 nga -X- _ O
 gipahigayon -X- _ O
 sa -X- _ O
@@ -33832,10 +33832,10 @@ Bayawan -X- _ B-LOC
 isip -X- _ O
 preparasyon -X- _ O
 sa -X- _ O
-2nd -X- _ B-MISC
-ARNIS -X- _ I-MISC
-Beach -X- _ I-MISC
-Tournament -X- _ I-MISC
+2nd -X- _ O-OTH
+ARNIS -X- _ I-OTH
+Beach -X- _ I-OTH
+Tournament -X- _ I-OTH
 nga -X- _ O
 ipahigayon -X- _ O
 sa -X- _ O
@@ -34438,14 +34438,14 @@ Centenarian -X- _ O
 Awardee -X- _ O
 subay -X- _ O
 sa -X- _ O
-Republic -X- _ B-MISC
-Act -X- _ I-MISC
-10868 -X- _ I-MISC
+Republic -X- _ O-OTH
+Act -X- _ I-OTH
+10868 -X- _ I-OTH
 o -X- _ O
-Centenarians -X- _ B-MISC
-Act -X- _ I-MISC
-of -X- _ I-MISC
-2016 -X- _ I-MISC
+Centenarians -X- _ O-OTH
+Act -X- _ I-OTH
+of -X- _ I-OTH
+2016 -X- _ I-OTH
 nga -X- _ O
 naga -X- _ O
 garantiya -X- _ O
@@ -34912,7 +34912,7 @@ mamumuo -X- _ O
 dili -X- _ O
 kontento -X- _ O
 
-Russian -X- _ B-MISC
+Russian -X- _ O-OTH
 National -X- _ O
 nga -X- _ O
 wanted -X- _ O
@@ -34982,7 +34982,7 @@ Dumaguete -X- _ B-LOC
 RTC -X- _ I-LOC
 , -X- _ O
 ang -X- _ O
-Russian -X- _ B-MISC
+Russian -X- _ O-OTH
 National -X- _ O
 nga -X- _ O
 si -X- _ O
@@ -35016,22 +35016,22 @@ Section -X- _ O
 1 -X- _ O
 ) -X- _ O
 of -X- _ O
-Republic -X- _ B-MISC
-Act -X- _ I-MISC
-9262 -X- _ I-MISC
+Republic -X- _ O-OTH
+Act -X- _ I-OTH
+9262 -X- _ I-OTH
 otherwise -X- _ O
 known -X- _ O
 as -X- _ O
 " -X- _ O
-Anti-Violence -X- _ B-MISC
-Against -X- _ I-MISC
-Women -X- _ I-MISC
-and -X- _ I-MISC
-Their -X- _ I-MISC
-Children -X- _ I-MISC
-Act -X- _ I-MISC
-of -X- _ I-MISC
-2004 -X- _ I-MISC
+Anti-Violence -X- _ O-OTH
+Against -X- _ I-OTH
+Women -X- _ I-OTH
+and -X- _ I-OTH
+Their -X- _ I-OTH
+Children -X- _ I-OTH
+Act -X- _ I-OTH
+of -X- _ I-OTH
+2004 -X- _ I-OTH
 " -X- _ O
 . -X- _ O
 Taho -X- _ O
@@ -35250,10 +35250,10 @@ isibog -X- _ O
 sa -X- _ O
 2024 -X- _ O
 ang -X- _ O
-Barangay -X- _ B-MISC
-ug -X- _ I-MISC
-SK -X- _ I-MISC
-Elections -X- _ I-MISC
+Barangay -X- _ O-OTH
+ug -X- _ I-OTH
+SK -X- _ I-OTH
+Elections -X- _ I-OTH
 , -X- _ O
 imbes -X- _ O
 nga -X- _ O
@@ -35277,8 +35277,8 @@ edad -X- _ O
 Atangi -X- _ O
 unya -X- _ O
 sa -X- _ O
-Balitang -X- _ B-MISC
-Bisdak -X- _ I-MISC
+Balitang -X- _ O-OTH
+Bisdak -X- _ I-OTH
 
 Pabor -X- _ O
 ba -X- _ O
@@ -35316,13 +35316,13 @@ IYANG -X- _ O
 AMO -X- _ O
 
 3 -X- _ O
-Dumaguetena -X- _ B-MISC
+Dumaguetena -X- _ O-OTH
 gold -X- _ O
 medalists -X- _ O
 sa -X- _ O
-Southeast -X- _ B-MISC
-Asian -X- _ I-MISC
-Games -X- _ I-MISC
+Southeast -X- _ O-OTH
+Asian -X- _ I-OTH
+Games -X- _ I-OTH
 
 Maundang -X- _ O
 pa -X- _ O
@@ -35370,12 +35370,12 @@ high -X- _ O
 school -X- _ O
 students -X- _ O
 ang -X- _ O
-CAT -X- _ B-MISC
+CAT -X- _ O-OTH
 ( -X- _ O
-Citizen -X- _ B-MISC
-'s -X- _ I-MISC
-Army -X- _ I-MISC
-Training -X- _ I-MISC
+Citizen -X- _ O-OTH
+'s -X- _ I-OTH
+Army -X- _ I-OTH
+Training -X- _ I-OTH
 ) -X- _ O
 gawas -X- _ O
 sa -X- _ O
@@ -35502,9 +35502,9 @@ kinahanglan -X- _ O
 FAST -X- _ O
 FACT -X- _ O
 : -X- _ O
-BBM -X- _ B-MISC
-- -X- _ I-MISC
-Sara -X- _ I-MISC
+BBM -X- _ O-OTH
+- -X- _ I-OTH
+Sara -X- _ I-OTH
 tandem -X- _ O
 hiusahang -X- _ O
 botaran -X- _ O
@@ -35552,7 +35552,7 @@ requirement -X- _ O
 aron -X- _ O
 makabotar. -X- _ I-LOC
 NO -X- _ O
-COVID -X- _ B-MISC
+COVID -X- _ O-OTH
 tests -X- _ O
 requirement -X- _ O
 aron -X- _ O
@@ -35771,10 +35771,10 @@ nga -X- _ O
 ni -X- _ O
 balabag -X- _ O
 sa -X- _ O
-174 -X- _ B-MISC
-Reclamation -X- _ I-MISC
+174 -X- _ O-OTH
+Reclamation -X- _ I-OTH
 # -X- _ O
-NoTo174Reclamation -X- _ B-MISC
+NoTo174Reclamation -X- _ O-OTH
 Si -X- _ O
 George -X- _ B-PER
 Arnaiz -X- _ I-PER
@@ -36098,17 +36098,17 @@ search -X- _ O
 warrant -X- _ O
 atol -X- _ O
 sa -X- _ O
-Oplan -X- _ B-MISC
-Sauron -X- _ I-MISC
+Oplan -X- _ O-OTH
+Sauron -X- _ I-OTH
 sa -X- _ O
 Kapolisan -X- _ O
 gumikan -X- _ O
 sa -X- _ O
 paglapas -X- _ O
 sa -X- _ O
-Republic -X- _ B-MISC
-Act -X- _ I-MISC
-10591 -X- _ I-MISC
+Republic -X- _ O-OTH
+Act -X- _ I-OTH
+10591 -X- _ I-OTH
 o -X- _ O
 illegal -X- _ O
 possession -X- _ O
@@ -36338,12 +36338,12 @@ adlaw -X- _ O
 
 BASAHA -X- _ O
 : -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 boosters -X- _ O
 epektibong -X- _ O
 makigharong -X- _ O
 sa -X- _ O
-Omicron -X- _ B-MISC
+Omicron -X- _ O-OTH
 variant -X- _ O
 , -X- _ O
 sumala -X- _ O
@@ -36365,10 +36365,10 @@ Dumaguete -X- _ B-LOC
 ang -X- _ O
 kontrobersiyal -X- _ O
 nga -X- _ O
-174-ha -X- _ B-MISC
-proposed -X- _ I-MISC
-reclamation -X- _ I-MISC
-proj -X- _ I-MISC
+174-ha -X- _ O-OTH
+proposed -X- _ I-OTH
+reclamation -X- _ I-OTH
+proj -X- _ I-OTH
 ? -X- _ O
 
 FAST -X- _ O
@@ -36435,9 +36435,9 @@ mo -X- _ O
 sa -X- _ O
 serbisyo -X- _ O
 sa -X- _ O
-Elections -X- _ B-MISC
-Precinct -X- _ I-MISC
-Finder -X- _ I-MISC
+Elections -X- _ O-OTH
+Precinct -X- _ I-OTH
+Finder -X- _ I-OTH
 ? -X- _ O
 Uyon -X- _ O
 ba -X- _ O
@@ -36448,8 +36448,8 @@ nalang -X- _ O
 sa -X- _ O
 COMELEC -X- _ B-ORG
 ang -X- _ O
-Precinct -X- _ B-MISC
-Finder -X- _ I-MISC
+Precinct -X- _ O-OTH
+Finder -X- _ I-OTH
 website -X- _ O
 ? -X- _ O
 
@@ -36513,9 +36513,9 @@ nga -X- _ O
 walay -X- _ O
 gipailawom -X- _ O
 sa -X- _ O
-Election -X- _ B-MISC
-Watchlist -X- _ I-MISC
-Areas -X- _ I-MISC
+Election -X- _ O-OTH
+Watchlist -X- _ I-OTH
+Areas -X- _ I-OTH
 sa -X- _ O
 Negros -X- _ B-LOC
 Oriental -X- _ I-LOC
@@ -36817,7 +36817,7 @@ kas -X- _ O
 dakong -X- _ O
 rally -X- _ O
 sa -X- _ O
-Leni-Kiko -X- _ B-MISC
+Leni-Kiko -X- _ O-OTH
 tandem -X- _ O
 sa -X- _ O
 Dumaguete. -X- _ B-LOC
@@ -36863,7 +36863,7 @@ nga -X- _ O
 magpabakuna -X- _ O
 ka -X- _ O
 batok -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 , -X- _ O
 pabakuna -X- _ O
 ka -X- _ O
@@ -36911,7 +36911,7 @@ PNP -X- _ B-ORG
 Active -X- _ O
 cases -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 sa -X- _ O
 Negros -X- _ B-LOC
 Oriental -X- _ I-LOC
@@ -37278,7 +37278,7 @@ house-to-house -X- _ O
 nga -X- _ O
 pagbakuna -X- _ O
 batok -X- _ O
-COVID-19.-X- _ B-MISC
+COVID-19.-X- _ O-OTH
 Matud  -X- _ O
 ni -X- _ O
 City -X- _ O
@@ -37453,7 +37453,7 @@ aktibo -X- _ O
 nga -X- _ O
 kaso -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 , -X- _ O
 gipailalom -X- _ O
 na -X- _ O
@@ -37679,15 +37679,15 @@ bisan -X- _ O
 human -X- _ O
 na -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
-pandemic -X- _ I-MISC
+COVID-19 -X- _ O-OTH
+pandemic -X- _ I-OTH
 mahitungod -X- _ O
 moakatar -X- _ O
 usab -X- _ O
 og -X- _ O
 kini -X- _ O
 og -X- _ O
-HIV -X- _ B-MISC
+HIV -X- _ O-OTH
 testing -X- _ O
 , -X- _ O
 DNA -X- _ O
@@ -37718,7 +37718,7 @@ sa -X- _ O
 kaayohan -X- _ O
 sa -X- _ O
 matag -X- _ O
-Bayawanon. -X- _ B-MISC
+Bayawanon. -X- _ O-OTH
 Matud -X- _ O
 pa -X- _ O
 ni -X- _ O
@@ -38241,7 +38241,7 @@ dugang -X- _ O
 trabaho -X- _ O
 sa -X- _ O
 mga -X- _ O
-Bayawanon. -X- _ B-MISC
+Bayawanon. -X- _ O-OTH
 Gani -X- _ O
 dako -X- _ O
 usab -X- _ O
@@ -39221,7 +39221,7 @@ makat-onan -X- _ O
 nato -X- _ O
 nga -X- _ O
 mga -X- _ O
-Pinoy -X- _ B-MISC
+Pinoy -X- _ O-OTH
 ? -X- _ O
 # -X- _ O
 WestPhilippineSeaIssue -X- _ O
@@ -39456,7 +39456,7 @@ nagkadyutay -X- _ O
 ang -X- _ O
 kaso -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 sa -X- _ O
 Negros -X- _ B-LOC
 Oriental -X- _ I-LOC
@@ -39496,7 +39496,7 @@ assistance -X- _ O
 ang -X- _ O
 mga -X- _ O
 mag-uumang -X- _ O
-Bayawanon -X- _ B-MISC
+Bayawanon -X- _ O-OTH
 gikan -X- _ O
 sa -X- _ O
 departamento -X- _ B-ORG
@@ -39504,10 +39504,10 @@ sa -X- _ I-ORG
 Agrikultura -X- _ I-ORG
 ilalom -X- _ O
 sa -X- _ O
-Rice -X- _ B-MISC
-Competitiveness -X- _ I-MISC
-Enhancement -X- _ I-MISC
-Fund. -X- _ I-MISC
+Rice -X- _ O-OTH
+Competitiveness -X- _ I-OTH
+Enhancement -X- _ I-OTH
+Fund. -X- _ I-OTH
 Kini -X- _ O
 gipang -X- _ O
 apod-apod -X- _ O
@@ -39560,15 +39560,15 @@ assistance -X- _ O
 nga -X- _ O
 narehistro -X- _ O
 sa -X- _ O
-Registry -X- _ B-MISC
-System -X- _ I-MISC
-for -X- _ I-MISC
-Basic -X- _ I-MISC
-Sectors -X- _ I-MISC
-in -X- _ I-MISC
-Agriculture -X- _ I-MISC
+Registry -X- _ O-OTH
+System -X- _ I-OTH
+for -X- _ I-OTH
+Basic -X- _ I-OTH
+Sectors -X- _ I-OTH
+in -X- _ I-OTH
+Agriculture -X- _ I-OTH
 ( -X- _ O
-RSBSA -X- _ B-MISC
+RSBSA -X- _ O-OTH
 ) -X- _ O
 . -X- _ O
 Matod -X- _ O
@@ -39659,7 +39659,7 @@ niini -X- _ O
 aron -X- _ O
 marehistro -X- _ O
 sa -X- _ O
-RSBSA.| -X- _ B-MISC
+RSBSA.| -X- _ O-OTH
 Press -X- _ O
 Release -X- _ O
 
@@ -40034,7 +40034,7 @@ daghan -X- _ O
 ang -X- _ O
 kaso -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 tandi -X- _ O
 sa -X- _ O
 Negros -X- _ B-LOC
@@ -40115,17 +40115,17 @@ MEDIA -X- _ I-ORG
 BUREAU -X- _ I-ORG
 Subay -X- _ O
 sa -X- _ O
-Republic -X- _ B-MISC
-Act -X- _ I-MISC
-No. -X- _ I-MISC
-10868 -X- _ I-MISC
+Republic -X- _ O-OTH
+Act -X- _ I-OTH
+No. -X- _ I-OTH
+10868 -X- _ I-OTH
 o -X- _ O
 ang -X- _ O
 " -X- _ O
-Centenarians -X- _ B-MISC
-Act -X- _ I-MISC
-of -X- _ I-MISC
-2016 -X- _ I-MISC
+Centenarians -X- _ O-OTH
+Act -X- _ I-OTH
+of -X- _ I-OTH
+2016 -X- _ I-OTH
 " -X- _ O
 nga -X- _ O
 gi-adopt -X- _ O
@@ -40136,7 +40136,7 @@ pipila -X- _ O
 na -X- _ O
 nga -X- _ O
 sentenaryong -X- _ O
-Bayawanons -X- _ B-MISC
+Bayawanons -X- _ O-OTH
 ang -X- _ O
 nakadawat -X- _ O
 og -X- _ O
@@ -40289,7 +40289,7 @@ Release -X- _ O
 
 Bayawan -X- _ B-LOC
 nakadawat -X- _ O
-Pfizer -X- _ B-MISC
+Pfizer -X- _ O-OTH
 vaccine -X- _ O
 gikan -X- _ O
 sa -X- _ O
@@ -40304,7 +40304,7 @@ og -X- _ O
 44,460 -X- _ O
 doses -X- _ O
 of -X- _ O
-Pfizer -X- _ B-MISC
+Pfizer -X- _ O-OTH
 vaccine -X- _ O
 gikan -X- _ O
 sa -X- _ O
@@ -40361,7 +40361,7 @@ Health -X- _ I-ORG
 Office -X- _ I-ORG
 nakadawat -X- _ O
 og -X- _ O
-Pfizer -X- _ B-MISC
+Pfizer -X- _ O-OTH
 Vaccines -X- _ O
 ang -X- _ O
 13 -X- _ O
@@ -40716,7 +40716,7 @@ magpabakuna -X- _ O
 aron -X- _ O
 makaharong -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 virus -X- _ O
 ug -X- _ O
 aron -X- _ O
@@ -40791,7 +40791,7 @@ sign -X- _ O
 and -X- _ O
 symptoms -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 bisan -X- _ O
 pag -X- _ O
 di -X- _ O
@@ -40999,7 +40999,7 @@ SA -X- _ O
 BAKUNA -X- _ O
 BATOK -X- _ O
 SA -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 ? -X- _ O
 
 Ilawom -X- _ O
@@ -41085,7 +41085,7 @@ mga -X- _ O
 naapektuhan -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 sa -X- _ O
 syudad -X- _ O
 sa -X- _ O
@@ -41172,7 +41172,7 @@ Mga -X- _ O
 naapektuhan -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 nakadawat -X- _ O
 og -X- _ O
 cash -X- _ O
@@ -41198,7 +41198,7 @@ naapektuhan -X- _ O
 sa -X- _ O
 miaging -X- _ O
 Bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 ang -X- _ O
 nakadawat -X- _ O
 na -X- _ O
@@ -41238,7 +41238,7 @@ nadaot -X- _ O
 sa -X- _ O
 miaging -X- _ O
 Bagyong -X- _ O
-Odette. -X- _ B-MISC
+Odette. -X- _ O-OTH
 Nidawat -X- _ O
 og -X- _ O
 2,000 -X- _ O
@@ -41299,7 +41299,7 @@ Teves -X- _ B-PER
 human -X- _ O
 sa -X- _ O
 bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 ang -X- _ O
 pagtabang -X- _ O
 dayon -X- _ O
@@ -41381,7 +41381,7 @@ naagi-an -X- _ O
 mahitungod -X- _ O
 sa -X- _ O
 bagyong -X- _ O
-Odette. -X- _ B-MISC
+Odette. -X- _ O-OTH
 Gipanan-awan -X- _ O
 nga -X- _ O
 aduna -X- _ O
@@ -41769,7 +41769,7 @@ nagkataas -X- _ O
 nga -X- _ O
 kaso -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 
 FACT -X- _ O
 FACT -X- _ O
@@ -41783,10 +41783,10 @@ holidays -X- _ O
 ang -X- _ O
 spike -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 cases. -X- _ O
 Maybe -X- _ O
-Omicron -X- _ B-MISC
+Omicron -X- _ O-OTH
 kay -X- _ O
 na-doble -X- _ O
 ang -X- _ O
@@ -41818,7 +41818,7 @@ milabay -X- _ O
 human -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 
 Kon -X- _ O
 nawad-an -X- _ O
@@ -41826,7 +41826,7 @@ kag -X- _ O
 pinuy-anan -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 , -X- _ O
 unsay -X- _ O
 imong -X- _ O
@@ -41852,7 +41852,7 @@ sa -X- _ O
 mga -X- _ O
 napagan -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 sa -X- _ O
 Central -X- _ B-LOC
 Visayas -X- _ I-LOC
@@ -41880,7 +41880,7 @@ imong -X- _ O
 balay -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 , -X- _ O
 unsay -X- _ O
 imong -X- _ O
@@ -41932,7 +41932,7 @@ ang -X- _ O
 active -X- _ O
 cases -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 sa -X- _ O
 syudad. -X- _ O
 Midapit -X- _ O
@@ -41970,7 +41970,7 @@ mga -X- _ O
 biktima -X- _ O
 sa -X- _ O
 bagyong -X- _ O
-Odette. -X- _ B-MISC
+Odette. -X- _ O-OTH
 # -X- _ O
 BasonMakadangatSaHingtungdan -X- _ O
 
@@ -41981,7 +41981,7 @@ mga -X- _ O
 biktima -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 nagtuktok -X- _ O
 sa -X- _ O
 atong -X- _ O
@@ -42015,7 +42015,7 @@ payag -X- _ O
 ilawom -X- _ O
 sa -X- _ O
 " -X- _ O
-Adopt-a-home -X- _ B-MISC
+Adopt-a-home -X- _ O-OTH
 " -X- _ O
 alang -X- _ O
 sa -X- _ O
@@ -42086,7 +42086,7 @@ mga -X- _ O
 biktima -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Odette. -X- _ B-MISC
+Odette. -X- _ O-OTH
 Dugan -X- _ O
 niini -X- _ O
 , -X- _ O
@@ -42124,8 +42124,8 @@ P1 -X- _ O
 milyon -X- _ O
 alang -X- _ O
 sa -X- _ O
-TUPAD -X- _ B-MISC
-program -X- _ I-MISC
+TUPAD -X- _ O-OTH
+program -X- _ I-OTH
 . -X- _ O
 
 LPA -X- _ O
@@ -42181,7 +42181,7 @@ grabeng -X- _ O
 naapektohan -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Odette. -X- _ B-MISC
+Odette. -X- _ O-OTH
 Kadagdanan -X- _ O
 sa -X- _ O
 373 -X- _ O
@@ -42343,7 +42343,7 @@ kumpirmadong -X- _ O
 namatay -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 sa -X- _ O
 Manjuyod -X- _ B-LOC
 ; -X- _ O
@@ -42357,7 +42357,7 @@ diin -X- _ O
 naglandfall -X- _ O
 ang -X- _ O
 Bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 , -X- _ O
 mga -X- _ O
 punoan -X- _ O
@@ -42382,7 +42382,7 @@ Jimalalud -X- _ B-LOC
 ug -X- _ O
 Tayasan -X- _ B-LOC
 
-Ceres -X- _ B-MISC
+Ceres -X- _ O-OTH
 Bus -X- _ O
 makalapos -X- _ O
 na -X- _ O
@@ -42406,7 +42406,7 @@ ug -X- _ O
 ulan -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Odette. -X- _ B-MISC
+Odette. -X- _ O-OTH
 # -X- _ O
 AyawgPanic -X- _ O
 # -X- _ O
@@ -42419,11 +42419,11 @@ OdettePH -X- _ O
 Tungod -X- _ O
 sa -X- _ O
 Bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 , -X- _ O
-Bayanihan -X- _ B-MISC
-Bakunahan -X- _ I-MISC
-II -X- _ I-MISC
+Bayanihan -X- _ O-OTH
+Bakunahan -X- _ I-OTH
+II -X- _ I-OTH
 gisibog -X- _ O
 sa -X- _ O
 Dec. -X- _ O
@@ -42447,7 +42447,7 @@ SA -X- _ O
 BAGYO -X- _ O
 ! -X- _ O
 Bagyong -X- _ O
-Odette -X- _ B-MISC
+Odette -X- _ O-OTH
 nakasulod -X- _ O
 na -X- _ O
 sa -X- _ O
@@ -42915,12 +42915,12 @@ hall. -X- _ O
 # -X- _ O
 StateOfTheArtCityHospital -X- _ O
 
-Malipayong -X- _ B-MISC
-Pasko -X- _ I-MISC
+Malipayong -X- _ O-OTH
+Pasko -X- _ I-OTH
 ug -X- _ O
-Mabungahong -X- _ B-MISC
-Bag-ong -X- _ I-MISC
-Tuig -X- _ I-MISC
+Mabungahong -X- _ O-OTH
+Bag-ong -X- _ I-OTH
+Tuig -X- _ I-OTH
 ! -X- _ O
 Pagtimbaya -X- _ O
 gikan -X- _ O
@@ -42941,12 +42941,12 @@ Oriental -X- _ I-LOC
 # -X- _ O
 Pasko2021 -X- _ O
 
-Malipayong -X- _ B-MISC
-Pasko -X- _ I-MISC
+Malipayong -X- _ O-OTH
+Pasko -X- _ I-OTH
 ug -X- _ O
-Mabungahong -X- _ B-MISC
-Bag-ong -X- _ I-MISC
-Tuig -X- _ I-MISC
+Mabungahong -X- _ O-OTH
+Bag-ong -X- _ I-OTH
+Tuig -X- _ I-OTH
 ! -X- _ O
 Pagtimbaya -X- _ O
 gikan -X- _ O
@@ -42965,12 +42965,12 @@ Aspirant -X- _ O
 # -X- _ O
 Pasko2021 -X- _ O
 
-Malipayong -X- _ B-MISC
-Pasko -X- _ I-MISC
+Malipayong -X- _ O-OTH
+Pasko -X- _ I-OTH
 ug -X- _ O
-Mabuangahong -X- _ B-MISC
-Bag-ong -X- _ I-MISC
-Tuig -X- _ I-MISC
+Mabuangahong -X- _ O-OTH
+Bag-ong -X- _ I-OTH
+Tuig -X- _ I-OTH
 ! -X- _ O
 Pagtimbaya -X- _ O
 gikan -X- _ O
@@ -43003,10 +43003,10 @@ ang -X- _ O
 Sangguniang -X- _ B-ORG
 Panlalawigan -X- _ I-ORG
 sa -X- _ O
-2022 -X- _ B-MISC
-Annual -X- _ I-MISC
-Investment -X- _ I-MISC
-Plan. -X- _ I-MISC
+2022 -X- _ O-OTH
+Annual -X- _ I-OTH
+Investment -X- _ I-OTH
+Plan. -X- _ I-OTH
 Apan -X- _ O
 giangkon -X- _ O
 niini -X- _ O
@@ -43035,10 +43035,10 @@ basehan -X- _ O
 sa -X- _ O
 pagbahig -X- _ O
 sa -X- _ O
-2022 -X- _ B-MISC
-proposed -X- _ I-MISC
-Annual -X- _ I-MISC
-Budget. -X- _ I-MISC
+2022 -X- _ O-OTH
+proposed -X- _ I-OTH
+Annual -X- _ I-OTH
+Budget. -X- _ I-OTH
 ( -X- _ O
 Kining -X- _ O
 interview -X- _ O
@@ -43081,7 +43081,7 @@ TAN-AWA -X- _ O
 : -X- _ O
 Ang -X- _ O
 higanteng -X- _ O
-Christmas -X- _ B-MISC
+Christmas -X- _ O-OTH
 tree -X- _ O
 sa -X- _ O
 Dumaguete -X- _ B-LOC
@@ -43155,13 +43155,13 @@ nga -X- _ O
 di -X- _ O
 makaapekto -X- _ O
 ang -X- _ O
-COVID -X- _ B-MISC
+COVID -X- _ O-OTH
 meals -X- _ O
 ug -X- _ O
-174 -X- _ B-MISC
-proposed -X- _ I-MISC
-reclamation -X- _ I-MISC
-project -X- _ I-MISC
+174 -X- _ O-OTH
+proposed -X- _ I-OTH
+reclamation -X- _ I-OTH
+project -X- _ I-OTH
 sa -X- _ O
 iyang -X- _ O
 kandidatora -X- _ O
@@ -43329,10 +43329,10 @@ empleyado -X- _ O
 , -X- _ O
 sigon -X- _ O
 sa -X- _ O
-IATF -X- _ B-MISC
-Resolution -X- _ I-MISC
-No. -X- _ I-MISC
-148-B -X- _ I-MISC
+IATF -X- _ O-OTH
+Resolution -X- _ I-OTH
+No. -X- _ I-OTH
+148-B -X- _ I-OTH
 
 Nov. -X- _ O
 29 -X- _ O
@@ -43342,7 +43342,7 @@ Dec. -X- _ O
 gideklarar -X- _ O
 nga -X- _ O
 National -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 Vaccination -X- _ O
 Days -X- _ O
 ; -X- _ O
@@ -43592,7 +43592,7 @@ TAN-AWA -X- _ O
 : -X- _ O
 Lubong -X- _ O
 sa -X- _ O
-COVID -X- _ B-MISC
+COVID -X- _ O-OTH
 positive -X- _ O
 sa -X- _ O
 Canlaon -X- _ B-LOC
@@ -43651,7 +43651,7 @@ Region -X- _ I-LOC
 ? -X- _ O
 Pinaagi -X- _ O
 sa -X- _ O
-EO -X- _ B-MISC
+EO -X- _ O-OTH
 nga -X- _ O
 gipirmahan -X- _ O
 ni -X- _ O
@@ -43693,7 +43693,7 @@ tawo -X- _ O
 namatay -X- _ O
 gumikan -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 
 Pagluag -X- _ O
 sa -X- _ O
@@ -43799,7 +43799,7 @@ ang -X- _ O
 herd -X- _ O
 immunity -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 sa -X- _ O
 December -X- _ O
 , -X- _ O
@@ -43865,9 +43865,9 @@ Nobyembre -X- _ O
 , -X- _ O
 2021. -X- _ O
 Sa -X- _ O
-EO -X- _ B-MISC
-No. -X- _ I-MISC
-43 -X- _ I-MISC
+EO -X- _ O-OTH
+No. -X- _ I-OTH
+43 -X- _ I-OTH
 ni -X- _ O
 Gov. -X- _ O
 Roel -X- _ B-PER
@@ -44033,12 +44033,12 @@ na -X- _ O
 sa -X- _ O
 pasyente -X- _ O
 sa -X- _ O
-COVID -X- _ B-MISC
+COVID -X- _ O-OTH
 ; -X- _ O
 di -X- _ O
 na -X- _ O
 moadawat -X- _ O
-giCOVID -X- _ B-MISC
+giCOVID -X- _ O-OTH
 
 BASAHA -X- _ O
 : -X- _ O
@@ -44048,7 +44048,7 @@ gidaghanon -X- _ O
 sa -X- _ O
 kaso -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 sa -X- _ O
 Negros -X- _ B-LOC
 Oriental -X- _ I-LOC
@@ -44164,7 +44164,7 @@ taas -X- _ O
 nga -X- _ O
 kaso -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 , -X- _ O
 sakto -X- _ O
 bang -X- _ O
@@ -44261,7 +44261,7 @@ labing -X- _ O
 daghang -X- _ O
 kaso -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 
 Lagundi -X- _ O
 ug -X- _ O
@@ -44270,7 +44270,7 @@ salingkapaw -X- _ O
 makatabang -X- _ O
 pagkumbati -X- _ O
 sa -X- _ O
-COVID-19 -X- _ B-MISC
+COVID-19 -X- _ O-OTH
 , -X- _ O
 sumala -X- _ O
 sa -X- _ O
@@ -44360,7 +44360,7 @@ nga -X- _ O
 makabalik -X- _ O
 ang -X- _ O
 mga -X- _ O
-Marcos -X- _ B-MISC
+Marcos -X- _ O-OTH
 sa -X- _ O
 Malakanyang. -X- _ B-LOC
 So -X- _ O
@@ -44410,7 +44410,7 @@ sa -X- _ O
 Malakayang -X- _ B-LOC
 ang -X- _ O
 mga -X- _ O
-Marcos. -X- _ B-MISC
+Marcos. -X- _ O-OTH
 Pero -X- _ O
 kon -X- _ O
 imong -X- _ O
@@ -44447,7 +44447,7 @@ ang -X- _ O
 nasod -X- _ O
 sa -X- _ O
 mga -X- _ O
-Marcos -X- _ B-MISC
+Marcos -X- _ O-OTH
 , -X- _ O
 nganong -X- _ O
 dili -X- _ O
@@ -44480,7 +44480,7 @@ ang -X- _ O
 nasod -X- _ O
 sa -X- _ O
 mga -X- _ O
-Marcos -X- _ B-MISC
+Marcos -X- _ O-OTH
 o -X- _ O
 gusto -X- _ O
 niya -X- _ O
@@ -44749,7 +44749,7 @@ di -X- _ O
 makabalik -X- _ O
 ang -X- _ O
 mga -X- _ O
-Marcos -X- _ B-MISC
+Marcos -X- _ O-OTH
 sa -X- _ O
 puder. -X- _ O
 Sa -X- _ O
@@ -44781,7 +44781,7 @@ sa -X- _ O
 puder -X- _ O
 ang -X- _ O
 mga -X- _ O
-Marcos -X- _ B-MISC
+Marcos -X- _ O-OTH
 o -X- _ O
 gihatagan -X- _ O
 niyag -X- _ O
@@ -45011,4 +45011,3 @@ Elections. -X- _ O
 Graphics -X- _ O
 : -X- _ O
 DND -X- _ O
-
