@@ -20,7 +20,7 @@ the Filipinas Bisaya. To further increase the data count, we also incorporated a
 
 
 ## Contact
-For questions, you may reach the corresponding author of the at:
+For questions, you may reach the corresponding author of the study at:
 
 **Joseph Marvin Imperial**\
 Faculty Member, Department of Computer Science\
