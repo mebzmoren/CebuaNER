@@ -1,16 +1,16 @@
 # CebuaNER: A New Baseline Cebuano Named Entity Recognition Model
-This repository contains the code and data used in our submission for PACLIC37 
+This repository contains the code and data for our paper entitled `CEBUANER: A New Baseline Cebuano Named Entity Recognition Model` submitted to PACLIC37. 
+
+Authored by Ma. Beatrice Emanuela N. Pilar, Ellyza Mari J. Papas, Mary Loise Buenaventura, Dane C. Dedoroy, Myron Montefalcon, Jay Rhald Padilla, Lany Maceda, Mideth Abisado, and Joseph Imperial.
 
 ## Dependencies
-1. Apify
-2. Label Studio
-3. Named Entity Recognition with Conditional Random Fields (https://github.com/nlptown/nlp-notebooks/blob/master/Named%20Entity%20Recognition%20with%20Conditional%20Random%20Fields.ipynb?fbclid=IwAR2xhumBtLNsYj9LCz-yGUTvqz72Qo5cr9J1KkhoVif25U3w6f-SaXZdn1Q)
-4. Sequence Labelling with a BiLSTM in PyTorch (https://github.com/nlptown/nlp-notebooks/blob/master/Sequence%20Labelling%20with%20a%20BiLSTM%20in%20PyTorch.ipynb)
-5. scikit-learn package for Kappa score computing
+1. [Label Studio](https://labelstud.io/) for the annotation process of NER tags
+2. [nlp-notebooks](https://github.com/nlptown/nlp-notebooks/tree/master) for the implementation of Conditional Random Fields and BiLSTM for NER model training.
+4. `Scikit-Learn` for Kappa score.
 
 ## Data
-The dataset contribution of this study is a compilation of two Cebuano news articles,  [Yes the Best Dumaguete](https://www.facebook.com/search/top?q=yes%20the%20best%20dumaguete) and
-the [Filipinas Bisaya](https://www.facebook.com/filipinasbisaya). To further increase the data count, we also incorporated another publicly available dataset from [Sunstar Cebu](https://github.com/rjrequina/Cebuano-POS-Tagger/blob/master/eval/data/scraped/news-raw.txt) pre-collected by independent researcher Arjemariel Requina. The total accumulated and filtered size of the Cebuano dataset is 4258 articles
+The dataset contribution of this study is a compilation of Cebuano news articles from two local news stations, Yes the Best Dumaguete and
+the Filipinas Bisaya. To further increase the data count, we also incorporated another publicly available dataset from [Sunstar Cebu](https://github.com/rjrequina/Cebuano-POS-Tagger/blob/master/eval/data/scraped/news-raw.txt) pre-collected by independent researcher Arjemariel Requina. The total accumulated and filtered size of the Cebuano dataset is 4258 articles. All the dataset used for this study is purely for non-commercial research purposes and under Fair Use.
 
 | Source                  | Original      | Cleaned |  
 | ------------------------| ------------- | ------- |
@@ -18,10 +18,11 @@ the [Filipinas Bisaya](https://www.facebook.com/filipinasbisaya). To further inc
 | Filipinas Bisaya        | 769           | 377     |
 | Sunstar                 | 3100          | 3100    |
 
-## Code
-
-
-## References
-
 
 ## Contact
+For questions, you may reach the corresponding author of the study at:
+
+**Joseph Marvin Imperial**\
+Faculty Member, Department of Computer Science\
+Lab Head, NU Human Language Technology Lab\
+jrimperial@national-u.edu.ph
