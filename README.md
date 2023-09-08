@@ -1,5 +1,5 @@
 # CebuaNER: A New Baseline Cebuano Named Entity Recognition Model
-This repository contains the code and data for our paper entitled `CEBUANER: A New Baseline Cebuano Named Entity Recognition Model` submitted to PACLIC37. 
+This repository contains the code and data for our paper entitled `CEBUANER: A New Baseline Cebuano Named Entity Recognition Model` accepted for ORAL at PACLIC37. 
 
 Authored by Ma. Beatrice Emanuela N. Pilar, Ellyza Mari J. Papas, Mary Loise Buenaventura, Dane C. Dedoroy, Myron Montefalcon, Jay Rhald Padilla, Lany Maceda, Mideth Abisado, and Joseph Imperial.
 
