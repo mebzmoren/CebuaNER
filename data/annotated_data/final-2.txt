@@ -105191,7 +105191,7 @@ atol -X- _ O
 sa -X- _ O
 pagsaulog -X- _ O
 sa -X- _ O
-Pasko -X- _ 
+Pasko -X- _ B-OTHER
 sa -X- _ O
 dakbayan -X- _ O
 sa -X- _ O
